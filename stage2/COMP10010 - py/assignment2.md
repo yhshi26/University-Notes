@@ -14,8 +14,9 @@ height_cm = int(input("Input height in cm:"))
 
 F = int(height_cm/30.48)
 I = int((height_cm%30.48)/2.54)
-Q = int((height_cm%30.48)%2.54)
+Q = int(((height_cm%30.48)/2.54-I)*4)
 
 print("Dear", name.upper(), "you are", F, "ft", I, Q, "/4 in tall")
 
 ```
+
