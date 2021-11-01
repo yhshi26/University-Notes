@@ -109,7 +109,7 @@ Please see separate sheet for tutorial details.
     - as the RMP stabilizes, Cl^-^ ions passively disperse based on the permeability and polarity of the plasma membrane; becasue the intracellular fluid is relatively negative, Cl^-^ ions are repelled and tend to concentrate outside of the membrane
 
 ### Action potential events
-- at rest, the axon membrane is slightly polarized to about -7mV, meaning the intracellular fluid is relatively negative to the extracellular fluid
+- at rest, the axon membrane is slightly polarized to about -70mV, meaning the intracellular fluid is relatively negative to the extracellular fluid
 ![](https://i.imgur.com/OCdATGI.png =250x)
 - an action potential occurs when a portion of the membrane rapidly depolarizes and repolarizes again to the initial resting state
 - the process is initiated by a threshold level stimulus such as a nearby change in membrane potential (threshold potential, local potential)
