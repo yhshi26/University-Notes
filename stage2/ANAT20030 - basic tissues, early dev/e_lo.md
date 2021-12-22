@@ -1,4 +1,4 @@
-## Learning objectives
+# Learning objectives
 ###### tags: `ANAT20030 - basic tissues, early dev`
 
 ### Lecture 1: Microscopy
