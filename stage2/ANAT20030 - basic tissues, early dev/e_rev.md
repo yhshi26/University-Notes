@@ -54,3 +54,109 @@ Questions:
     - what does it stain, and what colour does it stain it?
 - what are challenges (3) in microscopy?
     - what are the types of artifacts (4)?
+
+### Connective tissue
+- **function:** underlies or supports other 3 tissue types structurally and functionally
+- **types:**
+    - **connective tissue proper:**
+        - **loose:**
+            - **areolar:** 
+                - composition: cells, fibres and ground substance in equal parts
+                - location: layer beneath epithelial lining of many organs
+                - function: fill spaces between fibres of muscle and nerve
+            - **reticular:**
+                - composition: type III collagen fibres
+                - location: bone marrow, liver, lymph nodes, spleen
+                - function: forms delicate network for cells in hemopoietic tissue and lymphoid organs
+                - (only visible in silver staining)
+            - **adipose:**
+                - composition: adipocyte cells
+                - location: deep to skin, especially at sides, buttocks, breasts, padding around eyes and kidneys
+                - function: provide padding and cushion shocks, insulate (reduce heat loss), store energy
+        - **dense:** few cells, little ground substance
+            - **irregular:**
+                - composition: randomly distributed bundles of type I collagen, some elastic fibres
+                - location: dermis of skin, organ capsules
+                - function: provide resistance to tearing from all directions and elasticity
+            - **regular:**
+                - composition: bundles of parallel type I collagen
+                - location: prominent in tendons and ligaments
+                - function: provide strength but little strech, binding together components of musculoskeletal system
+            - **elastic:**
+                - composition: bundles with central core of elastin associated with network of fibrillin microfibrils
+                - location: ligaments of spinal column, ligaments supporting transitional epithelia, blood vessel walls
+                - function: stabilizes position of vertebrae and penis, cushions shocks, permits expansion and contraction of organs
+    - **fluid connective tissue:**
+        - **blood:**
+            - contained in cardiovascular system
+        - **lymph:**
+            - contained in lymphatic system
+    - **supporting connective tissue:**
+        - **cartilage:**
+            - solid, rubbery matrix
+            - hyaline, elastic, fibrous cartilage
+        - **bone:**
+            - solid, crystalline matrix
+- **cell types in connective tissue:**
+    - **mesenchyme:**
+        - mesenchymal cells: embryological/fetal cells that form connective tissue
+    - **fibroblasts:**
+        - principle cell of connective tissue
+        - create and maintain connective tissue, fibres and matrix (collagen, elastic and reticular fibres, complex carbohydrates of ground substance)
+            - **collagen fibres:**
+                - most abundant: 30% body dry weight
+                - formed by collagen proteins
+                - fibrillar collagens (I-III) form collagen fibres
+                - network or sheet-forming collagens (IV, X): major structural proteins of external laminae and all epithelial basal laminae
+                - linking/anchoring collagens (VII, ...): short collagens that link fibrillar collagens to another and other compoennts of ECM, link to basal lamina
+            - **reticular fibres:**
+                - formed by collagen proteins
+            - **elastic fibres:**
+                - formed by elastin protein
+        - myofibroblasts: activated fibroblast specialized for tissue repair with contractile ability; generates repair with scar
+    - **adipocytes:** 
+        - store fat and produce hormones, differentiate from mesenchymal stem cells, found in loose connective and adipose tissue
+        - white adipose: specialized for storage of triglycerides (fat) as energy reserve, but also has metabolic and structural roles
+        - brown adipose: specialized form of adipose tissue prominent in babies; metabolises triglycerides for heat under control of nervous system
+    - **hematopoietic stem cell-derived:**
+        - **mast cells:** tissue resident immune cells involved in immediate hypersensitivity and allergy
+            - ovoid, spherical nucleus 
+            - store secretory products (mediators of inflammation) in granules and release upon activation
+            - develop in bone marrow, differentiate in connective tissue
+            - found in connective tissue and mucous membranes but not brain or spinal cord
+        - **tissue macrophages:** tissue resident immune cells with prominent phagocytic abilities; major role in immune system
+        - **lymphocytes, eosinophils, neutrophils, plasma cells:** other immune cells usually in transit or response to inflammation
+- **ground substance:**
+    - fills space between cells and fibres
+    - is hydrated, viscous and transparent
+        - complex mixture of 2 macromolecules:
+            - glycosaminoglycans (GAGs)
+            - proteoglycans
+            - multiadhesive glycoproteins
+                - cell adhesion and movement
+            - water (interstitial fluid)
+- **tendons/ligaments/cartilage:**
+    - **tendons:** attach skeletal muscle to bone, strength but little stretch and poor vascularization
+        - dense regular connective tissue
+            - densely packed with bundles of parallel type I collagen, ground substance is sparse
+            - fibroblast (tendinocytes) oriented, elongated nuclei
+    - **ligaments:** attach bone to bone or cartilage, strength and stretch
+        - similar to tendons but:
+            - less dense and
+            - more elastic fibres
+    - **cartilage:** tough, durable supporting connective tissue
+        - densely packed with GAGs and proteoglycans, chondrocytes receive nutrients by diffusion from surrounding connective tissue (perichondrium)
+            - no vascularization
+            - no nerves
+        - provides low-friction surfaces, structural support and cushioning
+        - guides development and growth of long bones
+
+**Questions:**
+- what are the different types of connective tissue?
+    - name the 3 types
+    - name subtypes and describe structure/location
+- what are common cell types in connective tissue?
+    - what are their functions?
+- what are extracellular matrix components of connective tissue?
+- what is the anatomy of loose/dense/embryonic connective tissue/cartilage/fat?
+- what is the structure and function of tendons/ligaments/cartilage?
