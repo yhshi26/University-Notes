@@ -3,34 +3,34 @@
 
 ## Histology
 ### Overview basic tissues
-Tissues: 
-- cells → tissues → organs → organ systems
-- composed of: 
+**Tissues:** 
+- **hierarchy:** cells → tissues → organs → organ systems
+- **composed of:**
     - cells
     - extracellular matrix (ECM) = spaces between cells
         - fibres 
         - ground substance
-- 4 types of tissues:
-    - epithelial tissue (epithilium)
+- **4 types of tissues:**
+    - **epithelial tissue (epithilium)**
         - covers body surfaces
         - lines body cavities
         - forms glands
-    - connective tissue
+    - **connective tissue**
         - underlies or supports other 3 tissue types structurally and functionally
-    - muscle tissue
+    - **muscle tissue**
         - made of contractile cells
         - responsible for movement
-    - nerve tissue
+    - **nerve tissue**
         - receives, transmits, and integrates information from inside and outside the body to control body activities
 
-Questions:
+**Questions:**
 - what do tissues form?
 - what are tissues composed of?
 - what are 4 types of tissues?
     - what are their functions?
 
 ### Microscopy
-- key histological staining technique:
+- **key histological staining technique:**
     - hemotoxylin and eosin (H and E):
         - hemematoxylin:
             - basophilic: DNA, RNA (blueish)
@@ -38,16 +38,16 @@ Questions:
         - eosin:
             - acidophilic/eosinophilic: proteins (amino-groups) (pink)
                 - stains cytoplasm
-- challenges in interpreting images:
+- **challenges in interpreting images:**
     - assessing object sizes
     - variety of appearances resulting from slicing 3D structures in different planes
-- artifacts: consequences of procedures to prepare the tissue
+- **artifacts:** consequences of procedures to prepare the tissue
     - tissue folding
     - chatter artifact
     - tissue tearing
     - bubbles
 
-Questions:
+**Questions:**
 - is histological sectioning reversible or irreversible?
 - how do you prepare a histological section? (7 steps)
 - what staining technique can be used?
@@ -160,3 +160,152 @@ Questions:
 - what are extracellular matrix components of connective tissue?
 - what is the anatomy of loose/dense/embryonic connective tissue/cartilage/fat?
 - what is the structure and function of tendons/ligaments/cartilage?
+
+#### Bone
+- **functions:**
+    - support
+    - protection: cavities and organs (e.g. skull)
+    - articulation/movement
+        - at specialized, cartilage-covered ends
+        - movement conducted by muscles
+    - calcium homeostasis: constant exchange between blood an bones for nerve conduction and muscle contraction
+    - storage: stores red and yellow marrow
+        - red marrow → hematopoiesis (formation of blood cellular components)
+- **structure:**
+    - **bone is a vascular connective tissue containing:**
+        - cells
+        - calcified extracellular materials
+    - **bones can be split up into regions:**
+        - proximal to distal:
+            - epiphysis: ends of long bone, articular surface
+            - diaphysis: long straight section between ends of long bone
+            - metaphysis: regions between epiphysis and diaphysis, contains epiphyseal (growth) plate
+        - from outside to inside:
+            - articular cartilage (epiphysis)
+            - **periosteum:** tough, vascularized, fibrous sheath that superficially covers bone where there is no cartilage
+                - nourishes and protects bone
+                - attachment site for ligaments and tendons
+                - superficial layers are high on fibers
+                - deep layers have osteogenic (bone-forming) cells for bone repair
+            - compact bone
+            - trabecular bone
+            - **endosteum:** thin membrane lining medullary cavity
+                - single layer of osteoprogenitor (bone-forming) cells
+                - sparse matrix of collagen fibres
+            - **medullary (marrow) cavity:** hollow cavity containing bone marrow
+                - minimizes weight of bone where it is least needed
+    - **bone organisation:**
+        - **osteocytes in lacunae:**
+            - lacunae connected to each other and blood vessels through canaliculi
+            - compact bone consists of osteons
+            - osteons are circular structures of concentric lamellae of bone matrix around a central canal
+            - haversian canals contain blood vessels and nerves
+            - volkmann's canals are perforating canals connecting central canals, periosteum and marrow
+            - fibres in lamellae are parallel but in different directions to confer strength
+- **composition of bone:**
+    - **matrix:**
+        - organic matrix: dry wieght 35%
+            - type I collagen
+            - proteoglycans and GAGs
+            - glycoproteins: osteonectin and osteocalcin
+        - inorganic matrix: dry weight 65%
+            - calcium phosphate - hydroxyapatite
+            - provides hardness, compressive strength
+    - **cells:**
+        - **osteoblasts** produce new bone through **osteogenesis**
+        - **osteocytes** regulate protein and mineral content of the matrix and signal stress
+        - **osteoprogenitor** cells differentiate from the mesenchyme and divide to produce **osteoblasts**
+        - **osteoclasts** are large with multiple nuclei, derived from monocytes, and dissolve in the matrix to realease calcium through **osteolysis**
+- **types of bone:**
+    - **woven bone:**
+        - immature bone (osteoid)
+            - first formed during fetal development or during fracture repair
+            - remodels into lamellar bone
+        - random arrangement of collagen fibres
+    - **lamellar bone:**
+        - mature bone
+        - concentric bands of collagen
+            - fibres oriented in 1 direction per layer, layers alternate direction → increases strength
+        - 2 types: compact and spongy
+            - **compact bone:**
+                - contains haversion system: functional unit of concentric lamellae
+                    - lacunae: spaces between concentric lamellae
+                    - canaliculi: small extracellular fluid-filled channels radiating from lacunae
+                    - haversian canal: neurovascular channels
+                    - perforating (volksman) canals: provide blodo vessels and nerves from periosteum
+                - has osteons
+            - **spongy (cancellous/trabecular) bone:**
+                - latticework of thin plats of bone called trabeculae oriented along lines of stress
+                - spaces between struts filled with red marrow
+                - found on ends of long bonds and inside flat bones (e.g. hip bones, sternum, ribs)
+                - no osteons
+- **bone formation:**
+    - **intramembranous ossification:**
+        - ossification within a membrane, takes ~8 wks
+        - special cells (mesenchyme: embryonic connective tissue) secrete protein matrix that later mineralizes (becomes hard)
+            1. mesnchymal stem cells differentiate into osteoprogenitor cells, then osteoblasts
+            2. osteoblasts surround themselves in bone matrix
+            3. bone matrix calcifies into trabeculae with spaces containing red bone marrow
+            4. periosteum deelops
+            5. outer layers of spongy bone are replaced with compact bone
+        - primarily flat and irregular bones (e.g. facial bones, skull)
+    - **endochondral ossification:**
+        - replacement of cartilage by bone, takes ~12 wks
+        - mesenchyme turns into cartilage that is later replaced by bone
+            1. fetal hyaline cartilage model develops
+            2. cartilage calfifies and periosteal bone collar forms around diaphysis
+            3. primary ossification center forms in diaphysis
+            4. secondary ossification centers form in epiphyses
+            5. bone replaces cartilage except the articular cartilage and epiphyseal plates
+            6. epiphyseal plate ossify and form epiphyseal lines
+        - majority of bones in skeletal system
+        - associated with growth in length (e.g. humerus, femur)
+            - **epiphyseal (growth) plate zones:**
+                1. resting cartilage: small scattered chondrocytes
+                2. proliferating cartilage: larger chondrocytes arranged like coins
+                3. hypertrophic cartilage: large, maturing chondrocytes
+                4. calcified cartilage: dead chondrocytes in calcified cartilage
+                5. resorption: osteoclasts dissolve cartilage, osteoblats and capillaries invade area
+- **bone remodelling:**
+    - old bone is resorbed by osteoclasts
+    - replaced with new osteoid, secreted by osteoblasts
+    - renewal rate for compact bone: 4% per year
+    - renewal rate for trabecular bone: 20% per year
+    - whole skeleton replaced every 7-10 years
+- **bone pathologies**
+    - post-fracture remodelling:
+        1. inflammation directly after injury
+        2. soft callus (cartilagenous)
+        3. hard callus (calcified)
+        4. remodelling: for strength
+    - **achondroplasia → no cartilage formation:**
+        - affects endochondral ossification
+        - epiphyseal plates close before bones mature and normal bone length is reached
+            - people with achondroplasia have short stature
+        - bones derived from intramembranous ossification are not affected
+    - **osteopenia and osteoporosis → excessive bone resorption:**
+        - typically affects older women
+        - excessive osteoclast activity and loss in bone density
+            - bones fracture more easily
+            - patients may appear more stooped
+        - bone density measured by DEXA scan that gives a T-score (T score = comparison of patient's bone density to that of a healthy 30 year old of same gender)
+            - -1 ot -2.5 → osteopenia
+            - <-2.5 → osteoporosis
+    - **osteopetrosis → excessive bone formation:**
+        - umbrella term for pathologies with increased bone density
+        - defective skeletal remodelling
+        - osteoclasts fail to resorb bone
+        - osteoblast activity continues without counter-regulatory action of osteoclasts
+            - remodelling fails
+            - bone becomes very dense but also brittle (remodelling confers strength) → fracture more easily
+
+**Questions:**
+- describe bone structure and function
+- what are the different bone cell types?
+    - what are their functions?
+- describe features of woven, compact and spongy bone
+- how is bone formed and remodelled?
+- what is the epiphyseal growth plate?
+    - what are features (i.e. microscopic structure) of the epihyseal growth plate?
+- what are examples of bone pathologies?
+    - what causes them?
