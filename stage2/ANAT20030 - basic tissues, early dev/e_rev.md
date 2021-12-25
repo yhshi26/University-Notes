@@ -309,3 +309,70 @@
     - what are features (i.e. microscopic structure) of the epihyseal growth plate?
 - what are examples of bone pathologies?
     - what causes them?
+
+#### Muscle
+- **function:**
+    - produce skeletal movement
+        - muscle contractions pull tendons → move bones
+    - maintain posture
+        - balance and stabilize joints
+    - support soft tissues
+        - abdominal wall, pelvic floow = layers of muscle support weight of organs and protect
+    - regulating entering and exiting material
+        - voluntary control over swallowing, defecation, urination
+    - maintain body temperature
+        - contraction → energy → heat
+    - affect blood flow
+- **structure:**
+    - **muscle cell = myofibre**
+        - bundle of myofilaments → myofibrils → myofibre = muscle fibre
+        - bundle of myofibres → bundle of muscle fibres → bundle of fascicles = muscle
+        - elongated, highly differentiated cell
+    - **in organs:**
+        - **epimysium:** external sheath of dense irregular connective tissue surrounding entire muscle
+        - **septa:** of epimysium extends inward, carrying larger nerves, blood vessels, and lymphatics of muscle
+        - **perimysium:** thin connective tissue layer that surrounds fascicles
+            - nerves, blood vessels, and lymphatics penetrate perimysium to supply fascicles
+    - **in cells:**
+        - **fascicle:** bundle of muscle fibres (cells), makes up a functional unit in which fibres work together
+        - **endomysium:** thin layer of reticular fibres and scattered fibroblasts, surrounds external lamina of individual muscle fibres
+            - nerve fibres and capillaries form a rich network in the endomysium bringing signals and oxygen to muscle fibres
+    - **in cells (subcellular):**
+        - **myofibril:** bundle of myofilaments
+            - **myofilament:** myosin and f-actin organized in a symmetric pattern
+- **muscle types:**
+    - general: all muscles contract, origin: mesoderm
+    - **skeletal muscle:** bundles of long, multinucleated cells with **cross-striations** (alternating light and dark bands due to myofibril organization of actin and myosin filaments)
+        - contraction is quick, forceful, and voluntary
+    - **cardiac muscle:** long, mononucleated **myocytes**  with cross-striations that branch to join adjacent cells that are bound at **intercalated discs** (unique to cardiac muscle) composed of **desmosomes** and **fascia adherens** junctions, and **gap junctions** 
+        - contraction is vigorous, rhythmic, and involuntary
+    - **smooth/visceral muscle:** collections of long, mononucleated **fusiform** cells with no striations
+        - contraction is slow, and involuntary
+- **contraction:**
+    - **recieving the signal:**
+        1. ACh released from axon terminal bids to receptors on sarcolemma
+        2. action potential is generated and travels down T tubule
+        3. Ca^2+^ released from sarcoplasmic reticulum in response to voltage change
+        4. Ca^2+^ binds troponin, cross-bridges form between actin and myosin
+        5. Ach-esterase removes ACh from synaptic cleft
+        6. Ca^2+^ transported back into sarcoplasmic reticulum
+        7. tropomyosin binds active sites on actin causing cross-bridge detachment
+    - **propagating signal to all myofibrils:**
+        - **T tubules:** sarcolemme intensions that penetrate deep in sarcoplasm
+            - arrange with sarcoplasmic reticulum in **tirads**
+            - mediate muscle action potential
+    - **actomycin cross-bridge cycle stages:**
+        1. initial stage: myosin head attached
+        2. release
+        3. bending
+        4. force generation
+            - ATP → ADP = energy release
+        5. reattachment
+
+**Questions:**
+- what are 5 functions of skeletal muscle?
+- what are similarities and differences in gross and microscopic anatomy of muscle?
+- explain steps involved in contraction and relaxation of skeletal muscle fibres
+- what is a motor unit?
+    - how is a motor unit controlled by a single motor neuron?
+- how are muscle fibres arranged in skeletal, cardiac and smooth muscle?
