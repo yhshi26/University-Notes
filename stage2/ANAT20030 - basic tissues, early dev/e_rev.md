@@ -376,3 +376,80 @@
 - what is a motor unit?
     - how is a motor unit controlled by a single motor neuron?
 - how are muscle fibres arranged in skeletal, cardiac and smooth muscle?
+
+### Epithelial tissue (epithelia)
+- **epithelium:** covers external body surfaces (epidermis) and lines internal cavities (epi = on, thelia = sheet)
+    - epithelia are attached to basement membranes which are diffusion barriers
+        - not visible in H and E (collagen types IV)
+- **function:**
+    - **physical protection:** from abrasion, dehydration, chemical and biological agents
+    - **control permeability:** any substance must first pass through epithelium before reaching body, highly regulated
+    - **transport material**
+    - **provide sensation:** most epithelia are highly innervated with sensory nerves (e.g. touch receptors)
+    - **produce secretion:** in glands, most if not all epithelial cells produce secretions
+- **classifying epithelia:** epithelia can be classified based on 2 criteria
+    1. **arrangement of cell layers:**
+        - **simple:** single layer
+        - **stratified:** multiple layers
+        - **pseudostratified:** looks stratified but isn't (all cells attached to basal lamina, but not all reach surface)
+    2. **shape of cells:**
+        - based on apical (outermost) layer
+        - **squamous:** flat
+        - **cuboidal:** height = width
+        - **columnar:** tall
+- **classifications:**
+    - **simple squamous:** single layer, flat
+        - structure: disc shaped nuclei, sparse cytoplasm
+        - function: diffusion, absoption, secretion
+        - subclassifications:
+            - **mesothelium:** lines body cavities
+            - **endothelium:** lines heart and blood vessels
+    - **simple cuboidal:** single layer, cube
+        - structure: large spherical nuclei, nuclei centrally located
+        - function: important for absoprtion, secretion
+        - location: kidney tubules, ducts, secretory portions of small glands
+    - **simple columnar:** single layer, tall
+        - structure: oval nuclei, nuclei basally located, may contain microvilli or cilia (globlet cells without cilia found in between)
+        - function: secrete mucus
+        - location: digestive tract, gall bladder (non ciliated), bronchi, uterine tubes, regions of uterus (ciliated)
+    - **psuedostratified:** single layer
+        - structure: different cell heights, all attached to basal lamina but some don't reach apical (surface) level, nuclei at different levels
+        - function: secretion and propulsion of mucus
+        - location: upper respiratory tract (ciliated), male sperm-carrying ducts (non-ciliated) 
+    - **stratified squamous:** multiple layers, apical layer flat
+        - function: protect underlying areas from abrasion
+        - location: external part of epidermis (keratinised cells), moist lining of esophagus, mouth and vagina (non-karatinized cells)
+    - **stratified cuboidal:** multiple layers, apical layer cube
+        - location: sweat and mammary glands
+    - **stratified columnar:** multiple layers, apical layer tall
+        - location: areas of pharynx, epiglottis, glandular ducts (e.g. salivary glands), transition areas between 2 other types of epithelia
+- **glands:** produce and secrete aqueous fluids of substances that have specific functions
+    - **endocrine:** (endo = within, crine = secretion)
+        - structure: no ducts
+        - function: produce and secrete products (hormones: amino acids, proteins, glycoproteins, steroids) into connective tissue, from which they enter boodstream to reach target cells
+    - **exocrine:** (exo = outside)
+        - structure: contains ducts
+        - function: secrete products (mucus, sweat, saliva, digestive enzymes) onto surfaces (skin) or cavitues via ducts
+- **3 exocrine secretion types:**
+    - **merocrine:**
+        1. product delivered in membrane-bound vesicles to apical surface
+        2. vesicles fuse with plasma membrane and extrude contents via **exocytosis**
+        - most common mechanism
+        - no loss of cell material
+        - e.g. pancreas, sweat, salivary glands
+    - **apocrine:**
+        1. secretory vesicles accumulate in apical portion of cell
+        2. apical portion sheds off
+        3. cell regrows
+    - **holocrine:**
+        1. cells disintegrate at apical surface
+        2. cells replenished by cell division in basal layer
+
+**Questions:**
+- describe different types of epithelial tissues
+- what are common arrangements of epithelial tissues?
+    - describe the arrangements and their functions
+- what are different types of glands?
+    - describe
+- what are different types of secretion?
+    - describe
