@@ -453,3 +453,118 @@
     - describe
 - what are different types of secretion?
     - describe
+
+#### Skin
+- **the integument covers the body**
+    - **composed of:**
+        - skin and
+        - skin appendages (nails, hair follicles, glands)
+- **components and layers:**
+    - **layers (superficial to deep):**
+        1. epidermis
+        2. dermis
+            - papillary layer
+            - reticular layer
+        3. subcutaneous layer/hypodermis/subcutis
+    - **components:**
+        - **epidermis:**
+            - hair shafts
+            - sweat and gland duct pores
+        - **papillary layer:**
+            - tactile corpuscle
+            - sebaceous gland
+        - **reticular layer:**
+            - arrector pili muscle
+            - sweat gland duct
+            - hair follicle
+            - lamellated corpuscle
+            - nerve fibers
+        - **subcutaneous layer (hypodermis):**
+            - sweat gland
+            - arteries and veins (which form the cutaneous plexus)
+- **thick skin vs thin skin:**
+    - thick skin epidermis has 5 layers, thin skin epidermis has 4 layers
+        1. stratum corneum
+            - consists of keratin
+            - sheds dead cells (desquamation)
+        2. stratum lucidum **(thick skin only)**
+            - densely packed cells, no nuclei or organelles
+            - appears glassy
+        3. stratum granulosum
+            - cells keratinize
+            - granules with keratohyalin
+        4. stratum spinosum
+            - synthesizes keratin (keratinocytes), langerhans cells and melanocytes
+        5. stratum basale
+            - connected to basal lamina
+            - cells devide (regeneration)
+            - contains epidermal stem cells, melanocytes and merkel cells
+    - **thick skin vs thin skin:**
+        - thick skin:
+            - found on palms and soles
+            - epidermis: 400-1400 μm
+        - thin skin:
+            - found everywhere else on body
+            - epidermis: 75-150 μm
+- **4 cell types in epidermis:**
+    - **keratinocytes:** epithelial cells that **separate organism from external environment** 
+        - account for 85% of cells in epidermis
+    - **melanocytes:** **pigment producing cells** in basal layer
+        - account for 5% of cells in epidermis
+    - **langerhans' (dendritic) cells:** **antigen-presenting cells** involved in immune signalling in all layers
+        - account for 2-5% of cells in epidermis
+    - **merkel's cells:** **sensitive mechanoreceptor cells** associated with sensory nerve endings in basal layer
+        - account for 6-10% of cells in epidermis
+- **sensory receptors:**
+    - 2 types: with or without capsules of collagen and modified schwann cells
+        - **no capsule:**
+            - nerve ending, root hair plexus
+                - temperature, pain, itch
+            - merkel cells
+                - light touch, texture
+        - **capsule:**
+            - lamellated (pacinian) corpuscles
+                - pressure, high-frequency vibration
+            - krause end bulbs
+                - low-frequency vibration, cold
+            - meissner (tactile) corpuscles
+                - light touch
+            - ruffini corpuscles
+                - tissue distortion
+- **skin appendages:** are derived from growth of epidermal epithelium in development
+    - **hair follicles** produce **hair**
+        - hair structure:
+            - outside = shaft, embedded = root
+            - medulla → cortex → cuticle (center to surface)
+            - dermal papilla:
+                - kertinocytes proliferate to extend hair root (hair growth)
+    - **sebaceous glands** produce **sebum**
+        - sebaceous gland structure:
+            - attached to hair
+            - acinar type gland
+            - holocrine secretion called sebum:
+                - helps maintain stratum corneum and hair shafts (so mainly on face and scalp)
+                - exerts weak antibacterial and antifungal properties
+    - **eccrine sweat glands** produce **sweat**
+        - everywhere on skin, especially palms, soles, forehead and axillae
+        - stratfied cuboidal
+        - ducts open to skin surface
+        - thermoregulation and extretion (merocrine secretion → only secretions leave cell, so cell stays intact)
+    - **apocrine sweat glands** produce **sweat with carbohydrates, lipids and proteins**
+        - in axillae and genital regions
+            - not functional until puberty
+        - simple cuboidal
+        - ducts open into hair follicles
+        - produce viscous secretion (merocrine) that is initially odourless but may acquire scent due to bacterial decomposition
+
+**Questions:**
+- what are different components and layers that constitute the integument?
+    - describe and explain
+- what are different layers of the epidermis?
+- compare thick and thin skin
+- what are different cell types in the epidermis?
+    - what are their respective functions?
+- what are the different sensory receptors?
+    - describe them
+- what are skin appendices (particularly hair and glands)?
+    - describe them
