@@ -568,3 +568,61 @@
     - describe them
 - what are skin appendices (particularly hair and glands)?
     - describe them
+
+### Breast
+- **mammary development:**
+    - week 4 in embryo development: **mammary crests** (2 bands of thickened ectoderm) form along **milk lines**
+    - day 49 in embryo development: mammary bud invaginates (folds inside) and remaining mammary line involutes (**clinical note:** when normal regression fails, polymastia = accessory breasts, polythelia = accessory nipples)
+        - ectodermal ingrowths branch into 15-20 solid buds that become ducts and lobes of alveoli in fully formed mammary gland
+        - surrounding mesenchyme forms connective tissue, fat and vasculature that is invaded by mammary nerves
+- **further mammary development: puberty in females**
+    - increase in: fat, areola and nipple size, and glandular tissue
+    - **regulated by:**
+        - **estrogen:** increases number of ducts, pigmentation of areola
+        - **progesterone:** stimulates alveoli and lobule development
+- **further mammary development: pregnancy**
+    - **first trimester:**
+        - epithelial and myoepithelial cells proliferate
+    - **second trimester:**
+        - breast size increases due to cell proliferation
+        - cells vary in shape (flattened and columnar)
+        - plasma cells, lymphocytes and eosinophils infiltrate stroma
+    - **third trimester**
+        - epithelial glandular cells become cuboidal
+        - cell proliferation declines
+        - breast mass increases due to hypertrophy and accumulation of secretions in alveoli
+- **breast components:**
+    - adipose tissue (90%): fibrous supporting tissue
+    - glandular tissues (mammary glands):
+        - compound tubuloalveolar
+        - part of reproductive system
+        - responds to hormonal stimuli for feeding babies
+        - 15-25 lobes within lobules form alveoli
+    - lactiferous ducts: 2-4.5 cm long
+    - vascular components, nerves, lymphatic drainage
+    - connective tissue: 
+        - suspensory ligaments = cooper's ligament
+- **structure and function:**
+    - structure:
+        - position: anterior chest wall above retromammary (submammary) space
+        - retromammary space separates muscles from breast, allowing movement, and contains lymphatics and vessels
+        - cooper's ligaments firmly attach mammary gland to overlying skin
+            - **clinical implications:** accumulation of fluid may cause skin to have dimpled appearance due to skin being tethered by cooper's ligaments
+    - function: produe milk to feed baby (females, developed)
+- **lymphatics:** the lymphatic flow fo the breast is of great clinical significance due to metastatic dissemination occuring usually by lymphatic routes
+    - lymph drains from nipple to areola to mammary glands to lymphatic plexus
+        - 75% drains to **axillary nodes** (mainly superior-lateral quadrant):
+            - pectoral
+            - subscapular
+            - humeral 
+            - central
+        - majority of remaining draings medially to **parasternal nodes** or opposite breast
+        - some drains to **abdominal, deep cervical and supraclavicular nodes**
+
+**Questions:**
+- explain breast development
+- what are the different breast components?
+- describe breast structure and function
+    - relate them
+- describe lymphatic drainage
+- what are clinical implications?
