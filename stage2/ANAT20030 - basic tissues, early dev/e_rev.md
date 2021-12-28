@@ -715,3 +715,70 @@
 - describe lymphatic drainage
 - what are components of the spleen?
     - relate to function
+
+### Blood
+- **constituents:**
+    - plasma = 55%
+        - 90% water
+        - 7% protein
+            - albumins
+            - globulins
+            - fibrinogen
+            - hormones
+        - 1.5% other things 
+            - glucose
+            - mineral ions
+            - carbon dioxide
+    - cells = 45%
+- **non-nucleated blood cells:**
+
+| Blood cell type | Morphological features (appearance) | Function |
+| --------------- | ---------------------- | -------- |
+| Erythrocyte (red blood cell) | Flattened bi-concave disc, non-nucleated, 7.5 μm diameter | Oxygen transport, carbon dioxide transport | 
+| Platelet | Small disc, non-nucleated, 1.5-3.5 μm diameter | Haemostatis: blood clotting to prevent blood loss | 
+
+- **nucleated (leucocytes/white blood cells) blood cells:**
+
+| Blood cell type | Morphological features (appearance) | Function |
+| --------------- | ---------------------- | -------- |
+| Neutrophil | Granulocyte, nucleus: ≤5 lobes, 12-15 μm diameter | Defence against infection, damage repair | 
+| Eosinophil | Granulocyte, nucleus: 2-3 lobes, 12-17 μm diameter | Defence against parasites, regulates inflammation (e.g. allergic reactions) | 
+| Basophil | Granulocyte, nucleus: 2 lobes, 14-16 μm diameter | Secretes histamine and heparin, regulates inflammation | 
+| Monocyte | Agranulocyte, nucleus: oval/reniforme/footprint | Antigen-presenting cells in immunity | 
+| Lymphocyte | Agranulocyte, nucleus: round (or slightly indented) | Main functional cells of immune system | 
+- **hematopoeisis (cell formation):**
+    - blood cells develop through hematopoeisis
+        - fetus: 
+            - in yolk sac
+            - liver, spleen
+            - bone marrow
+        - infants:
+            - bone marrow
+        - adults:
+            - vertebrae, ribs, sternum, skull, sacrum and pelvis, proximal ends of femur
+    - **requires:**
+        - stem cells
+        - growth factors
+        - co-factors
+    - **controlled by:** growth factors
+        - proliferation
+        - differentiation
+        - maturation
+- **bone marrow:** medullary canals of long bonds, cavities of cancellous bones
+    - **types:**
+        1. red: hematogenous (active)
+        2. yellow: adipose cells (inactive)
+    - **functions:**
+        - erythropoeisis
+        - leukopoeisis
+            - granulopoeisis
+            - monocytopoeisis
+            - lymphopoeisis
+        - thrombocytopeisis
+
+**Questions:**
+- what are the constituents of blood?
+    - describe and recognize the morphological features (appearances) and functions of blood cell types
+- describe normal bone marrow
+    - what are its functions?
+- how do rbcs, wbcs and platelets develop?
