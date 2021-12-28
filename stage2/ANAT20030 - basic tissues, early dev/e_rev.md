@@ -626,3 +626,92 @@
     - relate them
 - describe lymphatic drainage
 - what are clinical implications?
+
+### Lymph and spleen
+- **lymphatic system** consists of cells, tissues, and organs that monitor body surfaces and internal fluid compartments and react to the presence of potentially harmful substances
+    - **components:**
+        - lymph and lymphatic vessels
+        - thymus, red bone marrow, GALT (gut-associated lymphoid tissue (primary))
+        - spleen, MALT (mucosa-associated lymphoid tissue, **lymph nodes** (secondary))
+        - **cells:** lymphocytes and supporting cells
+            - **lymphocytes:**
+                - **B lymphocytes**
+                    - humeral (antibody-mediated) immunity
+                    - explanation: **B cells** differentiate into **plasmocytes** (plasma cells) which produce and secrete antibodies that attach to the target, triggering a reaction that destroys the target
+                - **T lymphocytes**
+                    - cell-mediated immunity
+                    - explanation: **T cells** attack and destroy the target
+                    - **types of T lymphocytes:**
+                        - T cells: activate when antigen and MHC (molecule present on antigen) are recognized
+                        - helper T cells: **CD4** receptor recognizes **MHC class II**, activates macrophages and cytotoxic T cells
+                        - cytotoxic T cells: **CD8** receptor recognizes **MHC class I**, proliferate and kill cells by perforins and granzymes triggerign apoptosis
+                - **NK (natural killer) cells**
+                    - immunological surveillance
+                    - explanation: **NK cells** attack targets by secreting chemicals that lyse the plasmalemma of the target
+            - **supporting cells:** interact with lymphocytes, present antigens, regulate immune responses
+                - monocytes, macrophages, dendritic cells, langerhans' cells (skin), epithelioreticular cells (thymus)
+- **functions:**
+    - produce, maintain and distribute lymphocytes (primary organs)
+    - maintain normal blood vol and chemical composition of interstitial fluid
+    - alternative route for transport of hormones, nutrients and waste
+- **immune response:**
+    - **antibodies recognize targets and mediate response**
+        - **B and T lymphocytes** get activated against target
+        - **antibodies** recognize molecules on target **(antigens)**
+            - **antibody binding to antigen-binding site of an antigen causes:**
+                - **neutralization:** where antibody covers biologically active portion
+                - **agglutination:** where antibody cross-linkes cells 
+                - **precipitation:** where antibody cross-links circulating particles
+            - **Fc portion of antibody is exposed after antibody binds to antigen-binding site of antigens, promoting:** 
+                - **complement fixation:** where Fc region binds complement proteins to activate them
+                - **opsonization:** where Fc region binds to receptors of phagocytic cells to trigger phagocytosis
+                - **activation of NK cells:** where Fc region binds to NK cells to trigger release of cytotoxic chemicals
+        - **antigen presenting cells (APCs)** (dendritic cells and macrophages) activate B and T cells by presenting recognized antigens 
+        - **memory lymphocytes** retain antibodies to respond more quickly
+- **lymphatic drainage:**
+    - function: to maintain fluid balance in body
+        - fluids leaving and returning to tissues
+        - filter harmful substances
+            - slow spread of neoplasia (uncontrolled abnormal growths)
+        - return important substances that leak into interstitial space
+            - plasma proteins, hormones, enzymes, etc.
+    - interstitial fluid (cell products, debris, invaders) → lymph drains from from intercellular spaces → superficial and deep collecting vessels → lymph nodes → lymphatic trunks → thoracic duct (→ left subclavian vein) and right lymphatic duct (→ right subclavian vein)
+- **spleen:** largest lymphoid organ (secondary) located in upper left quadrant of abdomen
+    - **function:**
+        - **remove:** bacteria, old rbcs, iron (filters blood)
+        - **store:** erythrocytes, granulocytes, platelets, hematopoietic stem  cells in fetus (reservoir for blood cells)
+    - **structure:**
+        - connective tissue **capsule** supported by fibrous framework of **trabeculae**
+        - **splenic pulp:** reticular tissue of reticular cells and fibres, lymphocytes and other blood cells, macrophages, APCs
+        - **anatomically 2 functional components:**
+            1. **red pulp** (80% splenic mass)
+            2. **white pulp (= splenic nodule** 
+            - separated by a **marginal zone:**
+                - populated by marophages and B cells
+        - **red pulp:**
+            - contains a lot of blood
+            - **function:** filter blood
+            - consists of:
+                1. **sinusoids (splenic sinuses)** lined by **macrophages and endothelium**
+                2. **splenic cords (cords of billroth)** formed by reticular cells and fibres located between sinusoids
+        - **white pulp:**
+            - **function:** initiate immune responses using lymphocytes
+            - consists of:
+                1. **periarteriolar lymphoid sheath (PALS):**
+                    - continuous with nodules
+                    - populated by T cells
+                    - surround central arteries in spleen 
+                3. **splenic nodules (follicles):**
+                    - continuous with PALS
+                    - found at bifurcation sites of **central arterioles**
+                    - populated by B cells
+                    - may gain germinal centres (which contain macrophages and activated B cells) when there is antigenic stimulation
+
+**Questions:**
+- what are components of the lymphatic system (cells, tissues, organs)?
+    - describe them
+- explain functions
+    - include immune response
+- describe lymphatic drainage
+- what are components of the spleen?
+    - relate to function
