@@ -716,6 +716,52 @@
 - what are components of the spleen?
     - relate to function
 
+#### Lymphatic tissues
+- **lymph nodes:**
+    - **function:**
+        - filter lymph
+        - present antigens and develop plasma cells that secrete antibodies
+        - add antibodies to blood
+    - **how lymph is filtered:**
+        - lymph enters via **afferent lymphatic vessels**
+        - lymph passes capsule
+        - lymph enters cortex
+            - lymph is filtered in a network of **lymphatic sinuses** (subscapular, trabecular, medullary)
+            - throughout the network is **reticular meshwork** containing reticular, dendritic, and follicular dendritic cells and macrophages which interact with B and T cells in the **superficial cortex, deep cortex** and **medulla**
+        - lymph exits via **efferent lymphatic vessels**
+        - lymphocytes enter via **high endothelial venules (HEV)** in the **deep cortex** which contains most of the **T cells** (most of the **B cells** are in lymph nodules in the **superficial cortex**)
+- **thymus:**
+    - **structure:**
+        - contains developing **T cells** and extensive meshwork of interconnected **epithelioreticular cells**
+        - **thymic cortex:**
+            - contains lymphoblasts that proliferate and undergo selection
+            - contains **cytoreticulum** meshwork that supports lymphoblasts and contains epithelioreticular cells
+                - **epithelioreticular cells:** antigeb-presenting cells that extend long cellular processes instead of reticular fibres
+        - **thymic medulla:**
+            - **thymic (Hassal's) corpuscles:**
+                - contain aggregates of epithelioreticular cells
+                - secrete cytokines that control local dendritic cell activity and promote development of regulatory T cells
+    - **function:**
+        - produce differentiated **T cells**
+- **diffuse lymphatic tissues: GALT (Peyer's patch)**
+    - **Peyer's patches:** large clusters of lymphoid follicles in wall of ileum
+    - **function:** close monitoring of pathogens in gut
+    - **naming:** based on where they appear
+        - **gut-associated lymphatic tissue = GALT**
+            - alimentary canal
+        - **bronchus-associated lymphatic tissue = BALT**
+            - bronchial tree
+        - **mucosa-associated lymphatic tissue = MALT**
+            - term that includes GALT and BALT
+            ![](https://i.imgur.com/yNiYgfM.png =150x)
+
+**Questions:**
+- what are structures of the lymph node, thymus and diffuse lymphatic tissues? (include cell types they contain)
+    - describe them
+- how is lymph filtered in lymph nodes?
+    - what are structures in the lymph node? (and what are their respective functions?)
+- how do T cells develop in the thymus?
+
 ### Blood
 - **constituents:**
     - plasma = 55%
@@ -769,12 +815,12 @@
         1. red: hematogenous (active)
         2. yellow: adipose cells (inactive)
     - **functions:**
-        - erythropoeisis
-        - leukopoeisis
-            - granulopoeisis
-            - monocytopoeisis
-            - lymphopoeisis
-        - thrombocytopeisis
+        - erythropoiesis
+        - leukopoiesis
+            - granulopoiesis
+            - monocytopoiesis
+            - lymphopoiesis
+        - thrombocytopoiesis
 
 **Questions:**
 - what are the constituents of blood?
