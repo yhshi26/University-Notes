@@ -984,3 +984,62 @@
 - what are the structural and functional components of the PNS? (inc ganglia)
 - what are differences between spinal and cranial nerves?
 - describe the structure, function and divisions of the autonomic nervous system
+
+### Sensory receptors
+- **sensory receptor:**
+    - structures that recognize stimuli 
+    - sends impulses via **afferent nerves**
+- **receptor classes:**
+    - **anatomical location:**
+        - extero-: respond to external stimuli
+        - proprio-: respond to information on position/orientation/movement
+        - intero- (viscero-): respond to stimuli from viscera (internal organs)
+    - **function:**
+        - electro-
+        - baro- (pressure)
+        - chemo- (chemical)
+        - hydro-
+        - mechano-
+        - noci- (pain)
+        - osmo- (osmolarity)
+        - photo-
+        - proprio-
+        - thermo-
+    - **adaptive properties:**
+        - **slow adaptive/tonic:**
+            - ongoing stimuli
+        - **radpily adaptive/phasic:**
+            - changing stimuli
+    - **structure:**
+        - **non-encapsulated:**
+            - free nerve endings
+            - terminal branches unmyelinated
+            - examples: nociceptors, thermoreceptors
+        - **encapsulated:**
+            - myelinated
+            - examples: **specialized sensory receptors:** 
+                - meissner tactile corpuscles:
+                    - specialized mechano-
+                    - in dermis
+                    - stimuli: touch, slow vibration
+                - pacinian corpuscles:
+                    - in fingers
+                    - stimuli: fast vibration, deep pressure
+                - ruffini corpuscles:
+                    - in dermis
+                    - stimulus: pressure
+                - end bulb:
+                    - thermo-
+                - muscle spindles:
+                    - in muscles controlling fine movement
+                - tendon organ of golig:
+                    - in tendons
+                
+**Questions:**
+- what is a sensory receptor?
+- what are receptor classes by:
+    - function
+    - structure
+    - adaptive properties
+    - anatomical location
+- provide examples of specialized sensory receptors
