@@ -828,3 +828,61 @@
 - describe normal bone marrow
     - what are its functions?
 - how do rbcs, wbcs and platelets develop?
+
+### CNS: brain and spinal cord
+- **cns: brain**
+    - **structures:**
+        - cerebrum:
+            - has lobes, gyri (folds) and sulci (furrows)
+        - cerebellum:
+            - posterior aspect of brain behind brainstem 
+            - coordinates movement
+        - brain stem: connects spinal cord to brain
+            - pons
+            - midbrain
+            - medulla oblongata
+- **gray and white matter:**
+    - **gray matter:** rich in nerve **cell bodies**, found on brain surface and in spinal cord center
+    - **white matter:** rich in nerve **processes (axons)**, found in brain center and on spinal cord surface
+        - white due to **myelin** on processes (axons)
+- **nuclei vs. tracts:**
+    - **nuclei:** groups of **cell bodies**
+    - **tracts:** groups of **processes (axons)**
+        - **sensory vs. motor pathways:**
+            - **sensory:** from PNS to CNS
+            - **motor:** from CNS to PNS
+- **sensory pathway organisation:**
+    - pathway involves 3 neurons
+    - **first order/primary neuron:**
+        - cell body in **ganglion**, sends axon into **cord or brainstem**
+    - **second order/secondary neuron:**
+        - cell body in **CNS**, sends axon into **thalamus**
+    - **third order/tertiary neuron:**
+        - cell body in thamalic nucleus, sends axon into **ipsilateral/primary somatosensory cerebral cortex**
+- **motor pathway organisation:**
+    - pathway involves 2 neurons
+    - **upper motor neuron:**
+        - cell body in **motor cortex**, sends axon from **brainstem** to **ventral horn of spinal cord**
+    - **lower motor neuron:**
+        - cell body in **ventral horn of spinal cord**, sends axon to muscle
+- **CNS protective structures:**
+    - **meninges:**
+        - membranes covering CNS (brain and spinal cord)
+            - dura mater (dense, collagenous)
+            - arachnoid mater (spider-like)
+            - pia mater (delicate)
+        - **functions:**
+            - cover and protect CNS and blood vessels
+            - contain cerebrospinal fluid (CSF)
+            - form partitions in skull
+    - **ventricular system:**
+        - **ventricles:** cavities in brain, filled with CSF
+            - **function:** absorb shock
+        - **cerebrospinal fluid:** fluid around brain and spinal cord
+            - **function:** provides nutrients, cushions brain and spinal cord
+
+**Question:**
+- what is the structure of the CNS?
+- compare composition of gray and white matter
+- what are the differences between sensory and motor pathways?
+- what are functions of the meninges and ventricular system?
