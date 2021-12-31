@@ -829,8 +829,69 @@
     - what are its functions?
 - how do rbcs, wbcs and platelets develop?
 
+## Central and peripheral nervous system
+### Neurons and support cells
+- **neurons:** basic **functional unit**, **carry impulses**
+    - **components:**
+        1. **cell body:** synthetic centre for entire cell, receptive to stimuli
+        2. **dendrites:** elongated processes, **receive** stimuli from environment or other neurons
+        3. **axon:** single process specialised in generating and conducting nerve impulses to **other** cells (nerve, muscle and gland cells)
+    - **classifications:**
+        - **number of processes** extending from cell body:
+            - **multipolar:** for motor and sensory processing
+                - 1 axon leaving
+                - 2+ dendrites entering
+            - **bipolar:** for specialized sensory
+                - 1 axon leaving
+                - 1 dendrite entering  
+            - **pseudounipolar:** for spinal ganglia (sensory ganglia of spinal nerves)
+                - 1 axon leaving and entering
+                    - axon bifurcates on either side
+        - **direction** information is carried:
+            - **afferent:** carry impulses from peripheral **to** CNS 
+            - **efferent:** carry impulses **away from** CNS
+            - **interneurons:** relay impulses **within** CNS
+        - **structure:**
+            - **myelinated:**
+                - has myelin to help conduction of action potential
+                    - comes from **schwann cells in PNS**
+                        - gaps between schwann cells in peripheral nerves are **nodes of ranvier**
+                    - comes from **oligodendrocyetses in CNS**
+            - **unmyelinated:**
+                - does not have myelin 
+- **support cells:**
+    - **glia:** support cells
+        - **in CNS:**
+            - provide metabolic support, insulation, protection, reinforcement, repair, and clean damaged areas
+            - types: 
+                - astrocytes: star shaped, hold neurons together and prevent chemicals from leaving blood and damaging neurons **(blood brain barrier)** 
+                - oligodendrocytes: wrap around multiple axons, form myelin **in CNS** and provide nourishent
+                - microglia: irregularly shaped, scan for damaged cells and pathogens for immune defense
+                - ependymal cells: line ventricles of brain acting as barrier preventing cerebrospinal fluid in the ventricles from leaking into brain tissue
+        - **in PNS:**
+            - satellite cells:
+                - cover neuronal cell bodies for support
+            - schwann cells:
+                - 1 schwann cell per axon forms myelin
+- **neurotransmission:**
+    - **synpase:** junction between neurons or neuron and muscle
+        - **classification:**
+            - axoaxonic: axon →	axon
+            - axodendritic: axon → dendrite
+            - axosomatic: axon → cell body
+            - dendrodendritic: denrite → dendrite
+            - neuromusclar: axon → muscle fibre
+
+**Questions:**
+- classify neurons
+    - delineate their components
+- classify support cells
+    - delineate their function
+- explain neurotransmission
+    - define and clasify synapses
+
 ### CNS: brain and spinal cord
-- **cns: brain**
+- **CNS: brain**
     - **structures:**
         - cerebrum:
             - has lobes, gyri (folds) and sulci (furrows)
@@ -881,8 +942,45 @@
         - **cerebrospinal fluid:** fluid around brain and spinal cord
             - **function:** provides nutrients, cushions brain and spinal cord
 
-**Question:**
+**Questions:**
 - what is the structure of the CNS?
 - compare composition of gray and white matter
 - what are the differences between sensory and motor pathways?
 - what are functions of the meninges and ventricular system?
+
+### PNS: peripheral nerves and ganglia
+- **PNS:**
+    - **structural components:** cranial and spinal nerves, ganglia and nerve plexuses
+        - **nerves:**
+            - sensory
+            - motor
+            - mixed (sensory and motor mixed)
+        - **ganglia:**
+            - bundle of nerve cell bodies
+            - **function:** relay station
+        - **nerve plexuses:**
+            - network of intersecting nerves
+    - **functional components:**
+        - sensory (afferent → coming in) inputs, motor (efferent → exiting) outputs
+            - **somatic:** voluntary muscles (skeletal)
+            - **visceral (autonomic):** involuntary muscles (smooth, cardiac) and glands
+    - **anatomical organisation:**
+        - 43 pairs of nerves:
+            - 12 **cranial nerves:**
+                - type: some motor, sensory, mixed
+            - 31 **spinal nerves:**
+                - type: all mixed
+                    - dorsal/posterior ramus: sensory
+                    - ventral/anterior ramus: motor
+- **autonomic nervous system:**
+    - subcategory, specifically "self-governed"
+    - subdivisions:
+        - symphathetic: fight or flight
+            - spinal nerves
+        - parasympathetic: rest and digest
+            - cranial nerves
+
+**Questions:**
+- what are the structural and functional components of the PNS? (inc ganglia)
+- what are differences between spinal and cranial nerves?
+- describe the structure, function and divisions of the autonomic nervous system
