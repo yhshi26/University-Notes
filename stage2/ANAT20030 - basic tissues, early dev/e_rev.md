@@ -1043,3 +1043,49 @@
     - adaptive properties
     - anatomical location
 - provide examples of specialized sensory receptors
+
+### Spermatogenesis and oogenesis
+- **meiosis:** 
+    - meiosis 1: homologous chromosomes pair and exchange genetic material
+    - meiosis 2: cells don't replicate DNA and a haploid number of chromosomes results (half the amount of DNA of a normal somatic cell)
+- **birth defects:** 
+- may arise through abnormalities in chromosome number or structure and from single gene mutations
+    - trisomies (extra chromosome) and monosomies (loss of chromosome) arise during mitosis and meiosis
+        - downs syndrome = Trisomy-21
+    - structural abnormalities: large deletions (cri-du-chat syndrome) and microdeletions (Angelman syndrome (maternal 15), Prader-willi syndrome (paternal 15))
+- **oogenesis:** 
+    - begins before birth 
+    - primordial germ cells form oogonia 
+    - development stops at prophase of meiosis 1 to form primary oocytes, surrounded by follicular cells = primordial follicle 
+    - maturation involves 3 stages: 1) primary 2) secondary (graafian) 3) preovulatory
+    - when the second primordial follicle is mature, the first primordial follicle is stimulated by LH which results in meiosis 1 being completed producing a secondary oocyte and polar body
+    - secondary oocyte stops development at metaphase of meiosis 2 and will not complete division until fertilisation
+    - **structure of oocyte development:**
+        - zona pellucida: thick coat
+        - follicular antrum: part filled with fluid
+        - cumulus oophorus: cluster of cells surrounding oocyte
+        - theca interna: trigger estrogen production
+        - theca externa: structural support
+    - **corpus luteum:** a cyst that forms on ovaries monthly, makes uterus healthy for fetal grwoth (progesterone)
+- **spermatogenesis:**
+    - begins at puberty 
+    - primordial cells remain dormant until puberty 
+    - meiotic divisions produce 4 spermatids
+    - spermatids go through a series of changes: 1) formation of acrosome 2) condensation of the nucleus 3) formation of neck, middle and tail 4) shedding of most of the cytoplasm
+    - spermatozoon is mature sperm
+    - **structure of spermatozoon development:**
+        - sertoli cells (blood-testes barrier, ‘nurse cell’) , Leydig cells (produce testosterone), Spermatogonia, Spermatocyes, Spermatids
+        - accessory glands and helps transport sperm, providing them with energy and a pH they can survive in
+
+**Questions:**
+- what is spermatocytogensis?
+- what is spermiogenesis?
+- what is the structure of spermatozoa?
+- what are structures in the testis?
+- what are components in ejaculate and respective functions?
+- describe timing of oogenesis
+    - arrest?
+    - events for stimulation?
+- what is folliculogenesis?
+- what is a corpus luteum?
+- what are components of oocytes and respective functions?
