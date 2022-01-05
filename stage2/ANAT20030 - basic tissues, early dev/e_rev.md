@@ -58,7 +58,8 @@
 ### Connective tissue
 - **function:** underlies or supports other 3 tissue types structurally and functionally
 - **types:**
-    - **connective tissue proper:**
+    - ![](https://i.imgur.com/4Zfu4j4.png =550x)
+    1. **connective tissue proper:**
         - **loose:**
             - **areolar:** 
                 - composition: cells, fibres and ground substance in equal parts
@@ -69,6 +70,7 @@
                 - location: bone marrow, liver, lymph nodes, spleen
                 - function: forms delicate network for cells in hemopoietic tissue and lymphoid organs
                 - (only visible in silver staining)
+                    - ![](https://i.imgur.com/KtIjnQR.png =250x)
             - **adipose:**
                 - composition: adipocyte cells
                 - location: deep to skin, especially at sides, buttocks, breasts, padding around eyes and kidneys
@@ -77,21 +79,25 @@
             - **irregular:**
                 - composition: randomly distributed bundles of type I collagen, some elastic fibres
                 - location: dermis of skin, organ capsules
+                    - ![](https://i.imgur.com/Di97jHL.png =250x)
                 - function: provide resistance to tearing from all directions and elasticity
             - **regular:**
                 - composition: bundles of parallel type I collagen
                 - location: prominent in tendons and ligaments
+                    - ![](https://i.imgur.com/WCYPOKs.png =250x)
                 - function: provide strength but little strech, binding together components of musculoskeletal system
             - **elastic:**
                 - composition: bundles with central core of elastin associated with network of fibrillin microfibrils
+                    - ![](https://i.imgur.com/XIl1QJP.png =250x)
                 - location: ligaments of spinal column, ligaments supporting transitional epithelia, blood vessel walls
+                    - ![](https://i.imgur.com/R4mM28C.png =250x)
                 - function: stabilizes position of vertebrae and penis, cushions shocks, permits expansion and contraction of organs
-    - **fluid connective tissue:**
+    2. **fluid connective tissue:**
         - **blood:**
             - contained in cardiovascular system
         - **lymph:**
             - contained in lymphatic system
-    - **supporting connective tissue:**
+    3. **supporting connective tissue:**
         - **cartilage:**
             - solid, rubbery matrix
             - hyaline, elastic, fibrous cartilage
@@ -102,6 +108,7 @@
         - mesenchymal cells: embryological/fetal cells that form connective tissue
     - **fibroblasts:**
         - principle cell of connective tissue
+        - ![](https://i.imgur.com/oROGkPo.png =250x)
         - create and maintain connective tissue, fibres and matrix (collagen, elastic and reticular fibres, complex carbohydrates of ground substance)
             - **collagen fibres:**
                 - most abundant: 30% body dry weight
@@ -113,18 +120,24 @@
                 - formed by collagen proteins
             - **elastic fibres:**
                 - formed by elastin protein
+            - ![](https://i.imgur.com/aC3mykn.png =250x)
         - myofibroblasts: activated fibroblast specialized for tissue repair with contractile ability; generates repair with scar
     - **adipocytes:** 
         - store fat and produce hormones, differentiate from mesenchymal stem cells, found in loose connective and adipose tissue
+        - ![](https://i.imgur.com/E6ZjTy5.png =250x)
         - white adipose: specialized for storage of triglycerides (fat) as energy reserve, but also has metabolic and structural roles
+            - ![](https://i.imgur.com/HFoNsAk.png =250x)
         - brown adipose: specialized form of adipose tissue prominent in babies; metabolises triglycerides for heat under control of nervous system
+            - ![](https://i.imgur.com/YjS5pcj.png =250x)
     - **hematopoietic stem cell-derived:**
         - **mast cells:** tissue resident immune cells involved in immediate hypersensitivity and allergy
+            - ![](https://i.imgur.com/Qbaktc8.png =250x)
             - ovoid, spherical nucleus 
             - store secretory products (mediators of inflammation) in granules and release upon activation
             - develop in bone marrow, differentiate in connective tissue
             - found in connective tissue and mucous membranes but not brain or spinal cord
         - **tissue macrophages:** tissue resident immune cells with prominent phagocytic abilities; major role in immune system
+            - ![](https://i.imgur.com/RAbv4NJ.png =250x)
         - **lymphocytes, eosinophils, neutrophils, plasma cells:** other immune cells usually in transit or response to inflammation
 - **ground substance:**
     - fills space between cells and fibres
@@ -135,26 +148,35 @@
             - multiadhesive glycoproteins
                 - cell adhesion and movement
             - water (interstitial fluid)
+            - ![](https://i.imgur.com/7S1inZ3.png =150x)
 - **tendons/ligaments/cartilage:**
     - **tendons:** attach skeletal muscle to bone, strength but little stretch and poor vascularization
         - dense regular connective tissue
-            - densely packed with bundles of parallel type I collagen, ground substance is sparse
-            - fibroblast (tendinocytes) oriented, elongated nuclei
+        - composition:
+            - cells: fibroblast/tendinocytes with long nuclei
+            - fibres: lots of type I collagen bundles, few elastic fibres
+            - ground substance: sparse
     - **ligaments:** attach bone to bone or cartilage, strength and stretch
-        - similar to tendons but:
-            - less dense and
-            - more elastic fibres
+        - dense regular connective tissue, but less dense than tendons
+        - composition:
+            - cells: fibroblasts with long nuclei
+            - fibres: lots of type I collagen bundles, more elastic fibres
+            - ground substance: sparse
     - **cartilage:** tough, durable supporting connective tissue
-        - densely packed with GAGs and proteoglycans, chondrocytes receive nutrients by diffusion from surrounding connective tissue (perichondrium)
-            - no vascularization
-            - no nerves
-        - provides low-friction surfaces, structural support and cushioning
-        - guides development and growth of long bones
+        - composition:
+            - cells: chondroblasts and chondrocytes
+                - chondrocytes receive nutrients by diffusion from perichondrium (surrounding connective tissue)
+            - fibres: collagen type II
+            - ground substance: high in GAGs and proteoglycans
+            - no vascularization, no nerves
+        - function:
+            - provides low-friction surfaces, structural support and cushioning
+            - guides development and growth of long bones
 
 **Questions:**
 - what are the different types of connective tissue?
-    - name the 3 types
-    - name subtypes and describe structure/location
+    - where are they found?
+    - what are their structures?
 - what are common cell types in connective tissue?
     - what are their functions?
 - what are extracellular matrix components of connective tissue?
@@ -176,25 +198,25 @@
         - cells
         - calcified extracellular materials
     - **bones can be split up into regions:**
+        - ![](https://i.imgur.com/MAcoxVX.png =450x)
         - proximal to distal:
             - epiphysis: ends of long bone, articular surface
             - diaphysis: long straight section between ends of long bone
             - metaphysis: regions between epiphysis and diaphysis, contains epiphyseal (growth) plate
         - from outside to inside:
-            - articular cartilage (epiphysis)
             - **periosteum:** tough, vascularized, fibrous sheath that superficially covers bone where there is no cartilage
                 - nourishes and protects bone
                 - attachment site for ligaments and tendons
                 - superficial layers are high on fibers
                 - deep layers have osteogenic (bone-forming) cells for bone repair
-            - compact bone
-            - trabecular bone
             - **endosteum:** thin membrane lining medullary cavity
                 - single layer of osteoprogenitor (bone-forming) cells
                 - sparse matrix of collagen fibres
+                - ![](https://i.imgur.com/1YUSzml.png =450x)
             - **medullary (marrow) cavity:** hollow cavity containing bone marrow
                 - minimizes weight of bone where it is least needed
     - **bone organisation:**
+        - ![](https://i.imgur.com/omO8zda.png =550x)
         - **osteocytes in lacunae:**
             - lacunae connected to each other and blood vessels through canaliculi
             - compact bone consists of osteons
@@ -212,6 +234,8 @@
             - calcium phosphate - hydroxyapatite
             - provides hardness, compressive strength
     - **cells:**
+        - ![](https://i.imgur.com/DT5NJ68.png =500x)
+        - ![](https://i.imgur.com/6BcxVXT.png =500x)
         - **osteoblasts** produce new bone through **osteogenesis**
         - **osteocytes** regulate protein and mineral content of the matrix and signal stress
         - **osteoprogenitor** cells differentiate from the mesenchyme and divide to produce **osteoblasts**
@@ -222,10 +246,12 @@
             - first formed during fetal development or during fracture repair
             - remodels into lamellar bone
         - random arrangement of collagen fibres
+        - ![](https://i.imgur.com/YNVzJp4.png =200x)
     - **lamellar bone:**
         - mature bone
         - concentric bands of collagen
             - fibres oriented in 1 direction per layer, layers alternate direction → increases strength
+        - ![](https://i.imgur.com/hIXOIfl.png =200x)
         - 2 types: compact and spongy
             - **compact bone:**
                 - contains haversion system: functional unit of concentric lamellae
@@ -235,18 +261,19 @@
                     - perforating (volksman) canals: provide blodo vessels and nerves from periosteum
                 - has osteons
             - **spongy (cancellous/trabecular) bone:**
-                - latticework of thin plats of bone called trabeculae oriented along lines of stress
-                - spaces between struts filled with red marrow
-                - found on ends of long bonds and inside flat bones (e.g. hip bones, sternum, ribs)
+                - ![](https://i.imgur.com/dwSe7zA.png =550x)
+                    - latticework of thin plates of bone called trabeculae oriented along lines of stress
+                    - spaces between struts filled with red marrow
+                - found on ends of long bonrs and inside flat bones (e.g. hip bones, sternum, ribs)
                 - no osteons
 - **bone formation:**
     - **intramembranous ossification:**
         - ossification within a membrane, takes ~8 wks
         - special cells (mesenchyme: embryonic connective tissue) secrete protein matrix that later mineralizes (becomes hard)
-            1. mesnchymal stem cells differentiate into osteoprogenitor cells, then osteoblasts
+            1. mesenchymal stem cells differentiate into osteoprogenitor cells, then osteoblasts
             2. osteoblasts surround themselves in bone matrix
             3. bone matrix calcifies into trabeculae with spaces containing red bone marrow
-            4. periosteum deelops
+            4. periosteum develops
             5. outer layers of spongy bone are replaced with compact bone
         - primarily flat and irregular bones (e.g. facial bones, skull)
     - **endochondral ossification:**
@@ -261,6 +288,7 @@
         - majority of bones in skeletal system
         - associated with growth in length (e.g. humerus, femur)
             - **epiphyseal (growth) plate zones:**
+                - ![](https://i.imgur.com/dsIviKA.png =450x)
                 1. resting cartilage: small scattered chondrocytes
                 2. proliferating cartilage: larger chondrocytes arranged like coins
                 3. hypertrophic cartilage: large, maturing chondrocytes
@@ -274,10 +302,7 @@
     - whole skeleton replaced every 7-10 years
 - **bone pathologies**
     - post-fracture remodelling:
-        1. inflammation directly after injury
-        2. soft callus (cartilagenous)
-        3. hard callus (calcified)
-        4. remodelling: for strength
+        - ![](https://i.imgur.com/yX5yUbS.png =400x)
     - **achondroplasia → no cartilage formation:**
         - affects endochondral ossification
         - epiphyseal plates close before bones mature and normal bone length is reached
@@ -302,11 +327,12 @@
 **Questions:**
 - describe bone structure and function
 - what are the different bone cell types?
-    - what are their functions?
-- describe features of woven, compact and spongy bone
+    - what are their structures/functions?
+- what are different bone types?
+    - what are their structures/fuctions?
 - how is bone formed and remodelled?
 - what is the epiphyseal growth plate?
-    - what are features (i.e. microscopic structure) of the epihyseal growth plate?
+    - what its structure?
 - what are examples of bone pathologies?
     - what causes them?
 
@@ -328,46 +354,49 @@
         - bundle of myofilaments → myofibrils → myofibre = muscle fibre
         - bundle of myofibres → bundle of muscle fibres → bundle of fascicles = muscle
         - elongated, highly differentiated cell
-    - **in organs:**
-        - **epimysium:** external sheath of dense irregular connective tissue surrounding entire muscle
-        - **septa:** of epimysium extends inward, carrying larger nerves, blood vessels, and lymphatics of muscle
-        - **perimysium:** thin connective tissue layer that surrounds fascicles
-            - nerves, blood vessels, and lymphatics penetrate perimysium to supply fascicles
-    - **in cells:**
-        - **fascicle:** bundle of muscle fibres (cells), makes up a functional unit in which fibres work together
-        - **endomysium:** thin layer of reticular fibres and scattered fibroblasts, surrounds external lamina of individual muscle fibres
-            - nerve fibres and capillaries form a rich network in the endomysium bringing signals and oxygen to muscle fibres
-    - **in cells (subcellular):**
+        - ![](https://i.imgur.com/rHFU1P7.png =350x)
+    - **muscle organisation:**
+        - **epimysium:** sheath of dense irregular connective tissue surrounding entire muscle
+        - **septa:** epimysium extending into the muscle to surround myofibres, carries nerves, blood vessels, and lymphatics of muscle
+    - **fascicle organisation:**
+        - **fascicle:** bundle of myofibres that work together, is the functional unit of muscles
+        - **perimysium:** sheath of connective tissue that surrounds fascicles, is penetrated by nerves, blood vessels, and lymphatics from septa to supply fascicles
+    - **myofibre organisation:**
+        - **endomysium:** sheath of reticular fibres with scattered fibroblasts, surrounds external lamina of individual myofibres; nerves abd blood vessels form a rich network in the endomysium bringing signals and oxygen to myofibres
+        - ![](https://i.imgur.com/ucwLc9z.png =250x)
         - **myofibril:** bundle of myofilaments
             - **myofilament:** myosin and f-actin organized in a symmetric pattern
 - **muscle types:**
     - general: all muscles contract, origin: mesoderm
     - **skeletal muscle:** bundles of long, multinucleated cells with **cross-striations** (alternating light and dark bands due to myofibril organization of actin and myosin filaments)
         - contraction is quick, forceful, and voluntary
+        - ![](https://i.imgur.com/mgnq6Km.png =125x)
     - **cardiac muscle:** long, mononucleated **myocytes**  with cross-striations that branch to join adjacent cells that are bound at **intercalated discs** (unique to cardiac muscle) composed of **desmosomes** and **fascia adherens** junctions, and **gap junctions** 
         - contraction is vigorous, rhythmic, and involuntary
+        - ![](https://i.imgur.com/1veiVgn.png =150x)
     - **smooth/visceral muscle:** collections of long, mononucleated **fusiform** cells with no striations
         - contraction is slow, and involuntary
+        - ![](https://i.imgur.com/lCCWzeU.png =150x)
 - **contraction:**
-    - **recieving the signal:**
-        1. ACh released from axon terminal bids to receptors on sarcolemma
+    - **recieving the signal:** (know basics only)
+        1. ACh released from axon terminal buds to receptors on sarcolemma
         2. action potential is generated and travels down T tubule
         3. Ca^2+^ released from sarcoplasmic reticulum in response to voltage change
         4. Ca^2+^ binds troponin, cross-bridges form between actin and myosin
         5. Ach-esterase removes ACh from synaptic cleft
         6. Ca^2+^ transported back into sarcoplasmic reticulum
         7. tropomyosin binds active sites on actin causing cross-bridge detachment
+        - ![](https://i.imgur.com/OT87gHL.png =350x) 
     - **propagating signal to all myofibrils:**
         - **T tubules:** sarcolemme intensions that penetrate deep in sarcoplasm
             - arrange with sarcoplasmic reticulum in **tirads**
             - mediate muscle action potential
     - **actomycin cross-bridge cycle stages:**
-        1. initial stage: myosin head attached
-        2. release
-        3. bending
-        4. force generation
-            - ATP → ADP = energy release
-        5. reattachment
+        - myosin head **attaches** to actin/thin filament -> ATP attaches to myosin head so it **releases** from actin/thin filament -> ATP becomes ADP and P in myosin head so it **bends** -> this releases energy so **force generated** -> myosin head **reattaches**
+        - ![](https://i.imgur.com/OawShKe.png =500x)
+- **motor units:**
+    - a group of myofibres innervated by a single motor neuron
+    - when the motor neuron propogates an action potential, all the myofibres in the motor unit contract simultaneously
 
 **Questions:**
 - what are 5 functions of skeletal muscle?
@@ -431,6 +460,7 @@
         - structure: contains ducts
         - function: secrete products (mucus, sweat, saliva, digestive enzymes) onto surfaces (skin) or cavitues via ducts
 - **3 exocrine secretion types:**
+    - ![](https://i.imgur.com/oz1WDEy.png =350x)
     - **merocrine:**
         1. product delivered in membrane-bound vesicles to apical surface
         2. vesicles fuse with plasma membrane and extrude contents via **exocytosis**
@@ -467,6 +497,7 @@
             - reticular layer
         3. subcutaneous layer/hypodermis/subcutis
     - **components:**
+        - ![](https://i.imgur.com/SuH8efj.png =500x)
         - **epidermis:**
             - hair shafts
             - sweat and gland duct pores
@@ -484,6 +515,7 @@
             - arteries and veins (which form the cutaneous plexus)
 - **thick skin vs thin skin:**
     - thick skin epidermis has 5 layers, thin skin epidermis has 4 layers
+        - ![](https://i.imgur.com/P8B89a5.png =450x)
         1. stratum corneum
             - consists of keratin
             - sheds dead cells (desquamation)
@@ -517,6 +549,7 @@
         - account for 6-10% of cells in epidermis
 - **sensory receptors:**
     - 2 types: with or without capsules of collagen and modified schwann cells
+    - ![](https://i.imgur.com/7YIJ2Ut.png =350x)
         - **no capsule:**
             - nerve ending, root hair plexus
                 - temperature, pain, itch
@@ -532,6 +565,7 @@
             - ruffini corpuscles
                 - tissue distortion
 - **skin appendages:** are derived from growth of epidermal epithelium in development
+    - ![](https://i.imgur.com/uUVJbnF.png =300x)
     - **hair follicles** produce **hair**
         - hair structure:
             - outside = shaft, embedded = root
@@ -572,7 +606,7 @@
 ### Breast
 - **mammary development:**
     - week 4 in embryo development: **mammary crests** (2 bands of thickened ectoderm) form along **milk lines**
-    - day 49 in embryo development: mammary bud invaginates (folds inside) and remaining mammary line involutes (**clinical note:** when normal regression fails, polymastia = accessory breasts, polythelia = accessory nipples)
+    - day 49 in embryo development: mammary bud invaginates (folds inside) and remaining mammary line involutes (**clinical implications:** when normal regression fails, polymastia = accessory breasts, polythelia = accessory nipples)
         - ectodermal ingrowths branch into 15-20 solid buds that become ducts and lobes of alveoli in fully formed mammary gland
         - surrounding mesenchyme forms connective tissue, fat and vasculature that is invaded by mammary nerves
 - **further mammary development: puberty in females**
@@ -602,10 +636,12 @@
     - vascular components, nerves, lymphatic drainage
     - connective tissue: 
         - suspensory ligaments = cooper's ligament
+    - ![](https://i.imgur.com/RAkflbz.png =350x)
 - **structure and function:**
     - structure:
         - position: anterior chest wall above retromammary (submammary) space
         - retromammary space separates muscles from breast, allowing movement, and contains lymphatics and vessels
+            - **clinical implications:** mammary carcinoma may cause breast being tethered to underlying musculature
         - cooper's ligaments firmly attach mammary gland to overlying skin
             - **clinical implications:** accumulation of fluid may cause skin to have dimpled appearance due to skin being tethered by cooper's ligaments
     - function: produe milk to feed baby (females, developed)
@@ -618,6 +654,11 @@
             - central
         - majority of remaining draings medially to **parasternal nodes** or opposite breast
         - some drains to **abdominal, deep cervical and supraclavicular nodes**
+        - **clinical implications:** interference with lymphatic drainage by cancer may cause:
+            1. axillary venous thrombosis: obstruction of blood passage, life threatening 
+            2. lymphoedema: impaired lymph flow from upper limb to axilla
+                - excess fluid in subcutaneous tissues
+                - visual changes in breast (a clue to breast cancer)
 
 **Questions:**
 - explain breast development
@@ -638,9 +679,11 @@
                 - **B lymphocytes**
                     - humeral (antibody-mediated) immunity
                     - explanation: **B cells** differentiate into **plasmocytes** (plasma cells) which produce and secrete antibodies that attach to the target, triggering a reaction that destroys the target
+                    - ![](https://i.imgur.com/jfvMc9V.png =150x)
                 - **T lymphocytes**
                     - cell-mediated immunity
                     - explanation: **T cells** attack and destroy the target
+                    - ![](https://i.imgur.com/8FOOwlV.png =150x)
                     - **types of T lymphocytes:**
                         - T cells: activate when antigen and MHC (molecule present on antigen) are recognized
                         - helper T cells: **CD4** receptor recognizes **MHC class II**, activates macrophages and cytotoxic T cells
@@ -648,6 +691,7 @@
                 - **NK (natural killer) cells**
                     - immunological surveillance
                     - explanation: **NK cells** attack targets by secreting chemicals that lyse the plasmalemma of the target
+                    - ![](https://i.imgur.com/ewRS1fy.png =150x)
             - **supporting cells:** interact with lymphocytes, present antigens, regulate immune responses
                 - monocytes, macrophages, dendritic cells, langerhans' cells (skin), epithelioreticular cells (thymus)
 - **functions:**
@@ -658,8 +702,10 @@
     - **antibodies recognize targets and mediate response**
         - **B and T lymphocytes** get activated against target
         - **antibodies** recognize molecules on target **(antigens)**
+            - ![](https://i.imgur.com/ROd2Bi0.png =350x)
             - **antibody binding to antigen-binding site of an antigen causes:**
                 - **neutralization:** where antibody covers biologically active portion
+                    - ![](https://i.imgur.com/DjQSXwH.png)
                 - **agglutination:** where antibody cross-linkes cells 
                 - **precipitation:** where antibody cross-links circulating particles
             - **Fc portion of antibody is exposed after antibody binds to antigen-binding site of antigens, promoting:** 
@@ -1044,15 +1090,62 @@
     - anatomical location
 - provide examples of specialized sensory receptors
 
+## Embryology
+- **significance:**
+    - explains anatomy from a development perspective
+    - helps us understand causes of anatomical variations
+- **cellular processes in embryogenesis:**
+    1. **gametogenesis:** formation of gametes (egg/sperm)
+    2. **fertilisation:** joining of gametes to form zygote
+    3. **cleavage:** rapid mitosis forming **morula** (ball of cells) followed by **blastocyst** (ball of cells with cavity)
+        - **cell division:**
+            - ![](https://i.imgur.com/5E8AqwU.png =250x)
+            - **mitosis:** 1 cell becomes 2 identical diploid cells
+            - **meiosis:** 1 cell becomes 4 different haploid cells with shuffled genetic information
+                - ![](https://i.imgur.com/qlnlyRG.png =250x)
+    4. **gastrulation:** ball of cells rearranges into 3 germ layers: ectoderm, mesoderm, endoderm
+    5. **embryonic folding:** lateral and longitudinal folding of embryo
+    6. **organogesis:** formation of organs and systems
+- **embryonic and fetal periods:**
+    - **embryonic period:** weeks 1-4 = egg, week 4-8 = embryo, **embryogenesis/organogenesis**
+        - major body systems form
+        - **critical period** when problems can arise
+    - **fetal period:** weeks 8-38
+        - body size increases
+        - major body systems function
+- **atypical development can occur due to:**
+    - **mutation:** gene is inherited improperly
+        - achondroplasia (FGFR2): dwarfism
+        - polydactyly (FGF): extra figers/toes
+        - trisomies (extra chromosome) and monosomies (loss of chromosome) arise during mitosis and meiosis
+            - downs syndrome = trisomy-21
+        - structural abnormalities: 
+            - large deletions (cri-du-chat syndrome): high pitch (cri du chat), low weight, small head with flat nose and spaced out eyes
+            - microdeletions (angelman syndrome (maternal 15): delayed development, prader-willi syndrome (paternal 15): delayed develpoment, weak and poor growth)
+    - **wrong gene** is inherited and expressed
+    - **teratogen:** an exogenous substance intereres with development 
+        - medications such as thalidomide
+        - alcohol, tobacco, caffeine
+        - environmental chemicals
+        - viral infection
+
+**Questions:**
+- what is the significance of embryology?
+- describe mitosis and meiosis
+- what are cellular processes involved in embryogenesis?
+- describe atypical development and causes
+- what is the critical period?
+
 ### Spermatogenesis and oogenesis
-- **meiosis:** 
-    - meiosis 1: homologous chromosomes pair and exchange genetic material
-    - meiosis 2: cells don't replicate DNA and a haploid number of chromosomes results (half the amount of DNA of a normal somatic cell)
-- **birth defects:** 
-- may arise through abnormalities in chromosome number or structure and from single gene mutations
-    - trisomies (extra chromosome) and monosomies (loss of chromosome) arise during mitosis and meiosis
-        - downs syndrome = Trisomy-21
-    - structural abnormalities: large deletions (cri-du-chat syndrome) and microdeletions (Angelman syndrome (maternal 15), Prader-willi syndrome (paternal 15))
+- **spermatogenesis:**
+    - begins at puberty 
+    - primordial cells remain dormant until puberty 
+    - meiotic divisions produce 4 spermatids
+    - spermatids go through a series of changes: 1) formation of acrosome 2) condensation of the nucleus 3) formation of neck, middle and tail 4) shedding of most of the cytoplasm
+    - spermatozoon is mature sperm
+    - **structure of spermatozoon development:**
+        - sertoli cells (blood-testes barrier, ‘nurse cell’) , Leydig cells (produce testosterone), Spermatogonia, spermatocyes, spermatids
+        - accessory glands and helps transport sperm, providing them with energy and a pH they can survive in
 - **oogenesis:** 
     - begins before birth 
     - primordial germ cells form oogonia 
@@ -1067,15 +1160,6 @@
         - theca interna: trigger estrogen production
         - theca externa: structural support
     - **corpus luteum:** a cyst that forms on ovaries monthly, makes uterus healthy for fetal grwoth (progesterone)
-- **spermatogenesis:**
-    - begins at puberty 
-    - primordial cells remain dormant until puberty 
-    - meiotic divisions produce 4 spermatids
-    - spermatids go through a series of changes: 1) formation of acrosome 2) condensation of the nucleus 3) formation of neck, middle and tail 4) shedding of most of the cytoplasm
-    - spermatozoon is mature sperm
-    - **structure of spermatozoon development:**
-        - sertoli cells (blood-testes barrier, ‘nurse cell’) , Leydig cells (produce testosterone), Spermatogonia, Spermatocyes, Spermatids
-        - accessory glands and helps transport sperm, providing them with energy and a pH they can survive in
 
 **Questions:**
 - what is spermatocytogensis?
@@ -1089,3 +1173,110 @@
 - what is folliculogenesis?
 - what is a corpus luteum?
 - what are components of oocytes and respective functions?
+
+### First week of development: ovulation to implantation
+- oocytes are discharged at ovulation 
+- when an oocyte is ovulated it is in **metaphase II** and is **surrounded by the zona pellucida and some granulosa cells** 
+- before the sperm can fertilize it must undergo:
+    - **capacitation:** the glycoprotein coat and seminal plasma proteins are removed from the head
+    - **acrosome reaction:** acrosine and trypsin-like substances are released to penetrate the zona pellucida.
+- during fertilization the spermatozoon must penetrate the **corona radiate**, the **zona pellucida** and the **oocyte cell membrane**
+- when the spermatozoon enters the oocyte:
+    - it finishes the **meiosis II** and forms the **female pronucleus**
+    - the **zona pellucida becomes impenetrable** to prevent polyspermy 
+    - the **head of the sperm separates**, swells and forms the **male pronucleus**
+- the results of fertilization: 
+    - restoration of the diploid number of chromosomes 
+    - determination of chromosomal sex 
+    - initiation of cleavage
+- **cleavage** = series of mitotic divisions that results in an increase in **blastomeres**
+    - after 3 divisions compaction occurs to give a tightly grouped ball of cells, which divide to form a 16-cell **morula**
+    - a cavity appears in the morula to form a **blastocyst**
+    - the inner cell mass develops at the time of compaction will develop into the **embryo**, and the outer cell mass will form the **trophoblast**
+- the **blastocyst** implants in the **endometrium** along the **anterior or posterior wall **
+
+### Second week of development: bilaminar germ disc
+- at this point the **blastocyst is partially embedded** in the **endometrial stroma**
+- trophoblast =
+    - **cytotrophoblast** – inner - actively proliferating layer
+    - **syncytiotrophoblast** – outer - erodes maternal tissues
+- syncytiotrophoblast forms lacunae and **maternal blood enters the lacunar network** = primitive uteroplacental circulation
+- inner cell mass/embryoblast =
+    - **epiblast** – gives rise to amnioblasts
+    - **hypoblast** – endoderm cells are continuous with exocoelomic membrane which surround the primitive yolk sac
+- extraembryonic mesoderm =
+    - **somatopleuric** mesoderm 
+    - **splanchnopleuric** mesoderm 
+- second week is referred to as the **‘week of twos’**:
+    - **trophoblast** splits in two (cyto and syncytio)
+    - **embryoblast** splits in two (epi and hypo)
+    - two **cavities** formed (amniotic and yolk sac)
+    - **extraembryonic mesoderm** splits in two (somatopleuric and splanchnopleuric)
+
+### Third week of development: trilaminar Germ Disc
+- **gastrulation:**
+    - begins with appearance of primitive streak 
+    - primitive node – cephalic end
+    - epiblast cells invaginate to form endoderm and mesoderm, and epiblast becomes ectoderm.
+- prenotochordal cells invaginating in the primitive pit move forwards until they reach the prechordal plate, forming the notochordal plate, which becomes the notochord
+- notochord forms midline axis and forms basis of axial skeleton
+- epiblast cells moving through the node and streak are predetermined by their positions to become specific types of mesoderm and endoderm – fate maps 
+
+### Fourth week: head and neck development
+- **pharyngeal arches are bars of mesenchymal tissue separated by** **pharyngeal pouches (endoderm)** and **clefts (ectoderm)**
+- **each arch** has its own:
+    - artery 
+    - cranial nerv
+    - muscle element
+    - cartilage bar or skeletal element
+- **pouches:** 
+    - middle ear cavity and auditory tube 
+    - stroma of the palatine tonsil (+ upper body and lesser horn of hyoid)
+    - inferior parathyroid glands and thymus (+ lower body and greater horn of hyoid)
+    - (+6) superior parathyroid glands and ultimobranchial body
+- **clefts:** 
+    - 1 + 2) external auditory meatus
+    - 3,4,6) cervical sinus (degenerates) 
+- the paired maxillary and mandibular prominences and the frontonasal prominence are the first prominences of the facial region
+- later, medial and lateral nasal prominences form around the nasal placodes on the frontonasal prominence
+- dormation of the upper lip occurs by the fusion of the two maxillary prominences with the two medial nasal prominences
+
+### Questions
+**Early development, implantation, fetal membranes:**
+- what is the timeline of implantation?
+    - clinical relevance of incorrect implantation
+- what are different stages of embryonic development in implantation?
+- how is the conceptus provided nutrients?
+
+**Gastrulation and mesoderm derivatives:**
+- what is gastrulation?
+    - what are the 3 germ layers and how do they form by cell migration?
+    - what are basic derivatives of the 3 germ layers?
+- how do somites arise?
+    - what are their main divisions?
+- why do we have segmental innervation of skin and muscles?
+
+**Neurulation and ectoderm derivatives:**
+- what are details of development of the brain and spinal cord?
+- what is the basic mechanism of neural patterning along the cranio-caudal and dorso-ventral axes?
+- what are disorders of the CNS in embryogenesis?
+
+**Folding ande endoderm derivatives:**
+- how does embryonic folding occur?
+- what is the outcome of faulty folding?
+- what components are derived from the endoderm?
+    - how do they arise?
+- explain development of the primitive gut and associated organs
+
+**Pharyngeal arches, pouches, grooves:**
+- what is the structural basis of the face, palate and pharyngeal arches?
+- what are derivatives of pharyngeal arches?
+- what are clinical implications of defects in palate and pharyngeal arfch development?
+
+
+## Overall learning objectives
+- recognize and describe **structural characteristics** of the basic tissue types at the microscopic level (c**onnective tissues, epithelial tissues, muscle tissue, and nervous tissues**)
+- distinguish structural characteristics between the basic tissue types, and **how these characteristics relate to the function** of the tissue
+- understand the **early development** of the mammalian embryo
+- know **where the basic tissue types originate from** during embryonic development
+- describe **developmental disturbances** that can arise during the early development of the mammalian embryo and present as malformations in the newborn child
