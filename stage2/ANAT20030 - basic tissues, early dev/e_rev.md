@@ -58,7 +58,7 @@
 ### Connective tissue
 - **function:** underlies or supports other 3 tissue types structurally and functionally
 - **types:**
-    - ![](https://i.imgur.com/4Zfu4j4.png =550x)
+    - ![](https://i.imgur.com/4Zfu4j4.png =650x)
     1. **connective tissue proper:**
         - **loose:**
             - **areolar:** 
@@ -79,18 +79,18 @@
             - **irregular:**
                 - composition: randomly distributed bundles of type I collagen, some elastic fibres
                 - location: dermis of skin, organ capsules
-                    - ![](https://i.imgur.com/Di97jHL.png =250x)
+                    - ![](https://i.imgur.com/Di97jHL.png =350x)
                 - function: provide resistance to tearing from all directions and elasticity
             - **regular:**
                 - composition: bundles of parallel type I collagen
                 - location: prominent in tendons and ligaments
-                    - ![](https://i.imgur.com/WCYPOKs.png =250x)
+                    - ![](https://i.imgur.com/WCYPOKs.png =350x)
                 - function: provide strength but little strech, binding together components of musculoskeletal system
             - **elastic:**
                 - composition: bundles with central core of elastin associated with network of fibrillin microfibrils
-                    - ![](https://i.imgur.com/XIl1QJP.png =250x)
+                    - ![](https://i.imgur.com/XIl1QJP.png =350x)
                 - location: ligaments of spinal column, ligaments supporting transitional epithelia, blood vessel walls
-                    - ![](https://i.imgur.com/R4mM28C.png =250x)
+                    - ![](https://i.imgur.com/R4mM28C.png =350x)
                 - function: stabilizes position of vertebrae and penis, cushions shocks, permits expansion and contraction of organs
     2. **fluid connective tissue:**
         - **blood:**
@@ -108,7 +108,7 @@
         - mesenchymal cells: embryological/fetal cells that form connective tissue
     - **fibroblasts:**
         - principle cell of connective tissue
-        - ![](https://i.imgur.com/oROGkPo.png =250x)
+        - ![](https://i.imgur.com/oROGkPo.png =350x)
         - create and maintain connective tissue, fibres and matrix (collagen, elastic and reticular fibres, complex carbohydrates of ground substance)
             - **collagen fibres:**
                 - most abundant: 30% body dry weight
@@ -120,7 +120,7 @@
                 - formed by collagen proteins
             - **elastic fibres:**
                 - formed by elastin protein
-            - ![](https://i.imgur.com/aC3mykn.png =250x)
+            - ![](https://i.imgur.com/aC3mykn.png =350x)
         - myofibroblasts: activated fibroblast specialized for tissue repair with contractile ability; generates repair with scar
     - **adipocytes:** 
         - store fat and produce hormones, differentiate from mesenchymal stem cells, found in loose connective and adipose tissue
@@ -705,13 +705,18 @@
             - ![](https://i.imgur.com/ROd2Bi0.png =350x)
             - **antibody binding to antigen-binding site of an antigen causes:**
                 - **neutralization:** where antibody covers biologically active portion
-                    - ![](https://i.imgur.com/DjQSXwH.png)
-                - **agglutination:** where antibody cross-linkes cells 
+                    - ![](https://i.imgur.com/DjQSXwH.png =150x)
+                - **agglutination:** where antibody cross-links cells 
+                    - ![](https://i.imgur.com/L2d03d4.png =150x)
                 - **precipitation:** where antibody cross-links circulating particles
+                    - ![](https://i.imgur.com/KvOuqlQ.png =150x)
             - **Fc portion of antibody is exposed after antibody binds to antigen-binding site of antigens, promoting:** 
                 - **complement fixation:** where Fc region binds complement proteins to activate them
+                    - ![](https://i.imgur.com/Be8PoBY.png =150x)
                 - **opsonization:** where Fc region binds to receptors of phagocytic cells to trigger phagocytosis
+                    - ![](https://i.imgur.com/dzUeyYt.png =150x)
                 - **activation of NK cells:** where Fc region binds to NK cells to trigger release of cytotoxic chemicals
+                    - ![](https://i.imgur.com/9YnPjtn.png =150x)
         - **antigen presenting cells (APCs)** (dendritic cells and macrophages) activate B and T cells by presenting recognized antigens 
         - **memory lymphocytes** retain antibodies to respond more quickly
 - **lymphatic drainage:**
@@ -721,7 +726,7 @@
             - slow spread of neoplasia (uncontrolled abnormal growths)
         - return important substances that leak into interstitial space
             - plasma proteins, hormones, enzymes, etc.
-    - interstitial fluid (cell products, debris, invaders) → lymph drains from from intercellular spaces → superficial and deep collecting vessels → lymph nodes → lymphatic trunks → thoracic duct (→ left subclavian vein) and right lymphatic duct (→ right subclavian vein)
+    - ![](https://i.imgur.com/0DnBtIb.png =350x)
 - **spleen:** largest lymphoid organ (secondary) located in upper left quadrant of abdomen
     - **function:**
         - **remove:** bacteria, old rbcs, iron (filters blood)
@@ -731,7 +736,7 @@
         - **splenic pulp:** reticular tissue of reticular cells and fibres, lymphocytes and other blood cells, macrophages, APCs
         - **anatomically 2 functional components:**
             1. **red pulp** (80% splenic mass)
-            2. **white pulp (= splenic nodule** 
+            2. **white pulp (= splenic nodule)** 
             - separated by a **marginal zone:**
                 - populated by marophages and B cells
         - **red pulp:**
@@ -769,6 +774,7 @@
         - present antigens and develop plasma cells that secrete antibodies
         - add antibodies to blood
     - **how lymph is filtered:**
+        - ![](https://www.open.edu/openlearn/ocw/pluginfile.php/840258/mod_oucontent/oucontent/42699/91a7863d/09d0a04a/ou_futurelearn_histopathology_fig_1016-02.jpg =400x)
         - lymph enters via **afferent lymphatic vessels**
         - lymph passes capsule
         - lymph enters cortex
@@ -779,6 +785,7 @@
 - **thymus:**
     - **structure:**
         - contains developing **T cells** and extensive meshwork of interconnected **epithelioreticular cells**
+        - ![](https://img.brainkart.com/imagebk34/TUA0kLj.jpg =300x)
         - **thymic cortex:**
             - contains lymphoblasts that proliferate and undergo selection
             - contains **cytoreticulum** meshwork that supports lymphoblasts and contains epithelioreticular cells
@@ -799,7 +806,7 @@
             - bronchial tree
         - **mucosa-associated lymphatic tissue = MALT**
             - term that includes GALT and BALT
-            ![](https://i.imgur.com/yNiYgfM.png =150x)
+            ![](https://i.imgur.com/yNiYgfM.png =250x)
 
 **Questions:**
 - what are structures of the lymph node, thymus and diffuse lymphatic tissues? (include cell types they contain)
@@ -882,21 +889,26 @@
         1. **cell body:** synthetic centre for entire cell, receptive to stimuli
         2. **dendrites:** elongated processes, **receive** stimuli from environment or other neurons
         3. **axon:** single process specialised in generating and conducting nerve impulses to **other** cells (nerve, muscle and gland cells)
+        - ![](https://i.imgur.com/vuwHsB9.png =300x)
     - **classifications:**
         - **number of processes** extending from cell body:
             - **multipolar:** for motor and sensory processing
                 - 1 axon leaving
                 - 2+ dendrites entering
+                - ![](https://i.imgur.com/mwiiIxL.png =135x)
             - **bipolar:** for specialized sensory
                 - 1 axon leaving
-                - 1 dendrite entering  
+                - 1 dendrite entering
+                - ![](https://i.imgur.com/2raxped.png =200x)
             - **pseudounipolar:** for spinal ganglia (sensory ganglia of spinal nerves)
                 - 1 axon leaving and entering
                     - axon bifurcates on either side
+                    - ![](https://i.imgur.com/5QFm1ni.png =200x)
         - **direction** information is carried:
             - **afferent:** carry impulses from peripheral **to** CNS 
             - **efferent:** carry impulses **away from** CNS
             - **interneurons:** relay impulses **within** CNS
+            - ![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Afferent_%28PSF%29.png =300x)
         - **structure:**
             - **myelinated:**
                 - has myelin to help conduction of action potential
@@ -905,8 +917,10 @@
                     - comes from **oligodendrocyetses in CNS**
             - **unmyelinated:**
                 - does not have myelin 
+            - ![](https://i.imgur.com/D5RHvWK.png =400x)
 - **support cells:**
     - **glia:** support cells
+        - ![](https://qbi.uq.edu.au/files/7740/Types-of-neuroglia_brain-physiology-cells-QBI.png =350x)
         - **in CNS:**
             - provide metabolic support, insulation, protection, reinforcement, repair, and clean damaged areas
             - types: 
@@ -927,6 +941,7 @@
             - axosomatic: axon → cell body
             - dendrodendritic: denrite → dendrite
             - neuromusclar: axon → muscle fibre
+            - ![](https://i.imgur.com/AUyO1Oj.png =400x)
 
 **Questions:**
 - classify neurons
@@ -948,10 +963,12 @@
             - pons
             - midbrain
             - medulla oblongata
+        - ![](https://i.imgur.com/DFxHKv7.png =450x)
 - **gray and white matter:**
     - **gray matter:** rich in nerve **cell bodies**, found on brain surface and in spinal cord center
     - **white matter:** rich in nerve **processes (axons)**, found in brain center and on spinal cord surface
         - white due to **myelin** on processes (axons)
+    - ![](https://i.imgur.com/zaBXZHg.png =450x)
 - **nuclei vs. tracts:**
     - **nuclei:** groups of **cell bodies**
     - **tracts:** groups of **processes (axons)**
@@ -966,18 +983,21 @@
         - cell body in **CNS**, sends axon into **thalamus**
     - **third order/tertiary neuron:**
         - cell body in thamalic nucleus, sends axon into **ipsilateral/primary somatosensory cerebral cortex**
+    - ![](https://i.imgur.com/5IgenCP.png =350x)
 - **motor pathway organisation:**
     - pathway involves 2 neurons
     - **upper motor neuron:**
         - cell body in **motor cortex**, sends axon from **brainstem** to **ventral horn of spinal cord**
     - **lower motor neuron:**
         - cell body in **ventral horn of spinal cord**, sends axon to muscle
+    - ![](https://i.imgur.com/qrBuTu0.png =350x)
 - **CNS protective structures:**
     - **meninges:**
         - membranes covering CNS (brain and spinal cord)
             - dura mater (dense, collagenous)
             - arachnoid mater (spider-like)
             - pia mater (delicate)
+            - ![](https://i.imgur.com/q0LLs6c.png =350x)
         - **functions:**
             - cover and protect CNS and blood vessels
             - contain cerebrospinal fluid (CSF)
@@ -1010,6 +1030,7 @@
         - sensory (afferent → coming in) inputs, motor (efferent → exiting) outputs
             - **somatic:** voluntary muscles (skeletal)
             - **visceral (autonomic):** involuntary muscles (smooth, cardiac) and glands
+            - ![](https://i.imgur.com/mnHHeL7.png =550x)
     - **anatomical organisation:**
         - 43 pairs of nerves:
             - 12 **cranial nerves:**
@@ -1137,29 +1158,41 @@
 - what is the critical period?
 
 ### Spermatogenesis and oogenesis
-- **spermatogenesis:**
+- **spermatocytogenesis (spermatogenesis):**
     - begins at puberty 
     - primordial cells remain dormant until puberty 
     - meiotic divisions produce 4 spermatids
-    - spermatids go through a series of changes: 1) formation of acrosome 2) condensation of the nucleus 3) formation of neck, middle and tail 4) shedding of most of the cytoplasm
-    - spermatozoon is mature sperm
-    - **structure of spermatozoon development:**
-        - sertoli cells (blood-testes barrier, ‘nurse cell’) , Leydig cells (produce testosterone), Spermatogonia, spermatocyes, spermatids
-        - accessory glands and helps transport sperm, providing them with energy and a pH they can survive in
+    - - ![](https://www.sarthaks.com/?qa=blob&qa_blobid=16520447564500019689 =250x)
+    - spermatids mature into spermatozoa via **spermiogenesis** in the **epididymis**
+        1. formation of acrosome 
+        2. condensation of the nucleus 
+        3. formation of neck, middle and tail 
+        4. shedding of most of the cytoplasm
+        - ![](https://i.imgur.com/nInTLHj.png =450x)
+    - spermatozoon is mature sperm, **structure:**
+        - head (with acrosome), tail, neck (centriol), midpiece (mitochondria), principle piece, end piece
+        - ![](https://i.imgur.com/FFwNxIU.png =350x)
+    - **testis structures involved:**
+        - sertoli cells (blood-testes barrier, ‘nurse cell’), leydig cells (produce testosterone), spermatogonia, spermatocyes, spermatids
+        - accessory glands produce seminal plasma for the spermatozoa (seminal plasma + spermatozoa = ejaculate) and helps transport sperm, providing them with energy and a pH they can survive in
 - **oogenesis:** 
     - begins before birth 
     - primordial germ cells form oogonia 
     - development stops at prophase of meiosis 1 to form primary oocytes, surrounded by follicular cells = primordial follicle 
-    - maturation involves 3 stages: 1) primary 2) secondary (graafian) 3) preovulatory
+    - ![](https://i.imgur.com/YqrpVwC.png =250x)
+    - maturation completes meiosis and involves 3 stages: 
+        1. primary 
+        2. secondary (graafian follicle)
+        3. preovulatory (ovarian follicle, folliculogenesis)
     - when the second primordial follicle is mature, the first primordial follicle is stimulated by LH which results in meiosis 1 being completed producing a secondary oocyte and polar body
     - secondary oocyte stops development at metaphase of meiosis 2 and will not complete division until fertilisation
-    - **structure of oocyte development:**
+    - **oocyte components:**
         - zona pellucida: thick coat
         - follicular antrum: part filled with fluid
         - cumulus oophorus: cluster of cells surrounding oocyte
         - theca interna: trigger estrogen production
         - theca externa: structural support
-    - **corpus luteum:** a cyst that forms on ovaries monthly, makes uterus healthy for fetal grwoth (progesterone)
+    - **corpus luteum:** a cyst that forms on ovaries monthly, makes uterus healthy for fetal growth (progesterone)
 
 **Questions:**
 - what is spermatocytogensis?
@@ -1175,12 +1208,17 @@
 - what are components of oocytes and respective functions?
 
 ### First week of development: ovulation to implantation
-- oocytes are discharged at ovulation 
-- when an oocyte is ovulated it is in **metaphase II** and is **surrounded by the zona pellucida and some granulosa cells** 
-- before the sperm can fertilize it must undergo:
+- **ovulation:** an oocyte is discharged from the ovary to the oviduct
+    - when an oocyte is ovulated it is in **metaphase II** and is **surrounded by the zona pellucida and some granulosa cells** 
+- **insemination:** spermatozoa enter via the vagina
+    - spermatozoa are motile, swimming against a current
+    - spermatozoa are transported by smooth muscle contractions (prostaglandins) to reach the **oviduct (fallopian tube):**
+        - once spermatozoa reach oviduct, they form a sperm reservoir for 3-4 days, then bind temporarily for 2 sec-1 min
+        - sperm then compete to fertilize the oocyte
+- before the spermatozoa can fertilize the oocyte, it must undergo:
     - **capacitation:** the glycoprotein coat and seminal plasma proteins are removed from the head
-    - **acrosome reaction:** acrosine and trypsin-like substances are released to penetrate the zona pellucida.
-- during fertilization the spermatozoon must penetrate the **corona radiate**, the **zona pellucida** and the **oocyte cell membrane**
+    - **acrosome reaction:** acrosine and trypsin-like substances are released to penetrate the zona pellucida
+- fertilization: spermatozoon must penetrate the **corona radiate**, the **zona pellucida** and the **oocyte cell membrane**
 - when the spermatozoon enters the oocyte:
     - it finishes the **meiosis II** and forms the **female pronucleus**
     - the **zona pellucida becomes impenetrable** to prevent polyspermy 
@@ -1193,7 +1231,7 @@
     - after 3 divisions compaction occurs to give a tightly grouped ball of cells, which divide to form a 16-cell **morula**
     - a cavity appears in the morula to form a **blastocyst**
     - the inner cell mass develops at the time of compaction will develop into the **embryo**, and the outer cell mass will form the **trophoblast**
-- the **blastocyst** implants in the **endometrium** along the **anterior or posterior wall **
+- the **blastocyst** implants in the **endometrium** along the **anterior or posterior wall**
 
 ### Second week of development: bilaminar germ disc
 - at this point the **blastocyst is partially embedded** in the **endometrial stroma**
@@ -1272,7 +1310,6 @@
 - what is the structural basis of the face, palate and pharyngeal arches?
 - what are derivatives of pharyngeal arches?
 - what are clinical implications of defects in palate and pharyngeal arfch development?
-
 
 ## Overall learning objectives
 - recognize and describe **structural characteristics** of the basic tissue types at the microscopic level (c**onnective tissues, epithelial tissues, muscle tissue, and nervous tissues**)
