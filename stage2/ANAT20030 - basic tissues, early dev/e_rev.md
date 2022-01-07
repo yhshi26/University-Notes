@@ -1231,6 +1231,7 @@
     - after 3 divisions compaction occurs to give a tightly grouped ball of cells, which divide to form a 16-cell **morula**
     - a cavity appears in the morula to form a **blastocyst**
     - the inner cell mass develops at the time of compaction will develop into the **embryo**, and the outer cell mass will form the **trophoblast**
+    - ![](https://i.imgur.com/7rmltnH.png =450x)
 - the **blastocyst** implants in the **endometrium** along the **anterior or posterior wall**
 
 ### Second week of development: bilaminar germ disc
@@ -1251,33 +1252,84 @@
     - two **cavities** formed (amniotic and yolk sac)
     - **extraembryonic mesoderm** splits in two (somatopleuric and splanchnopleuric)
 
-### Third week of development: trilaminar Germ Disc
-- **gastrulation:**
-    - begins with appearance of primitive streak 
-    - primitive node – cephalic end
-    - epiblast cells invaginate to form endoderm and mesoderm, and epiblast becomes ectoderm.
-- prenotochordal cells invaginating in the primitive pit move forwards until they reach the prechordal plate, forming the notochordal plate, which becomes the notochord
-- notochord forms midline axis and forms basis of axial skeleton
-- epiblast cells moving through the node and streak are predetermined by their positions to become specific types of mesoderm and endoderm – fate maps 
+### Third week of development: trilaminar germ disc
+- **gastrulation:** process that reorganizes bilaminar disc into trilaminar disc with 3 germ layers: ectoderm, mesoderm, and endoderm
+    - begins with appearance of primitive streak on epiblast surface
+    - primitive streak elongates to cranial and caudal ends
+        - cranial end forms thickening (primitive node)
+    - epiblast cells invaginate to form endoderm and mesoderm, and epiblast becomes ectoderm (cells leave epiblast and delaminate, those that don't remain as endoderm
+    - ![](https://i.imgur.com/7nHRuB8.png =350x)
+    - prenotochordal cells (derived from the mesoderm) invaginating in the primitive pit move forwards until they reach the prechordal plate, forming the notochordal plate, which becomes the notochord
+    - notochord forms midline axis and forms basis of axial skeleton
+    - ![](https://www.med.umich.edu/lrc/coursepages/m1/embryology/embryo/images/gastrulation_1.gif =250x)
+    - during notochord and neural tube formation, the mesoderm splits into 3 regions:
+        - **paraxial mesoderm:** **somites** form segmental plate near midline 
+            - somitomeres along the midline and are replaced by somites
+            - the somites surround the neural tube
+            - **somite divisions:**
+                - splanchnic
+                - primitive gut
+                - somatic
+                - intermediate
+                - paraxial
+        - **intermediate cell mass (segmented):** mesonephros
+            - **intermediate mesoderm derivatives:** urogenital system
+        - **lateral plate mesoderm (LPM) (unsegmented):** splits into **somatic** and **splanchnic layer**
+            - differentiates after somites form around neural tube
+            - **somatic mesoderm derivatives:** body wall and limbs
+            - **splanchnic mesoderm derivatives:** organs
+- **basic derivatives of the 3 germ layers:**
+    - **ectoderm:**
+        - epidermis
+        - nervous system
+        - neural crest cell derivatives
+            - melanocytes
+            - skull bones
+            - adrenal medulla
+    - **endoderm:**
+        - dermis
+        - muscles
+        - skeleton except in head
+        - urogenital organs except bladder
+        - blood, vasculature, spleen
+    - **mesoderm:**
+        - digestive system
+            - gut, liver, pancreas
+        - respiratory system
+        - bladder
+        - thyroid, parathyroid
 
-### Fourth week: head and neck development
-- **pharyngeal arches are bars of mesenchymal tissue separated by** **pharyngeal pouches (endoderm)** and **clefts (ectoderm)**
-- **each arch** has its own:
-    - artery 
-    - cranial nerv
-    - muscle element
-    - cartilage bar or skeletal element
-- **pouches:** 
-    - middle ear cavity and auditory tube 
-    - stroma of the palatine tonsil (+ upper body and lesser horn of hyoid)
-    - inferior parathyroid glands and thymus (+ lower body and greater horn of hyoid)
-    - (+6) superior parathyroid glands and ultimobranchial body
-- **clefts:** 
-    - 1 + 2) external auditory meatus
-    - 3,4,6) cervical sinus (degenerates) 
-- the paired maxillary and mandibular prominences and the frontonasal prominence are the first prominences of the facial region
-- later, medial and lateral nasal prominences form around the nasal placodes on the frontonasal prominence
-- dormation of the upper lip occurs by the fusion of the two maxillary prominences with the two medial nasal prominences
+### Fourth week: head development
+- **nervous system development:**
+    - major parts of central nervous system **i.e. brain and spinal cord** derived from **neural tube**
+    - **neural tube:**
+        - derived from **ectoderm**
+        - **ectoderm** in midline is induced to form **neuroectoderm** by the underlying **notocord** and surrounding tissue
+        - **neural tube formation:**
+            - **neural plate** lies above the **notochord** in the midline dorsally
+            - **neural plate** rises up into **neural folds** along its length on each side (**neural groove** in midline)
+            - cells at crest of each fold separate to form neural crest cells between neural plate and surface ectoderm
+            - **neural folds** fuse together along length to form **neural tube**
+            - ![](https://i.imgur.com/9mjbJBZ.png =350x)
+            - **primary neurulation:**
+                - neural tube proceeds to develop cranially and caudally
+                - temporarily leaves openings (neuropores) at either end of the tube
+            - **secondary neurulation:**
+                - occurs at end of spinal cord
+                - neural tube forms solid rod of neural tissue that canalises (hollows out) and links up with the rest of the neural tube
+                - ![](https://i.imgur.com/7kUfO4Y.png =350x)
+    - **cns development:**
+        - **neural tube** closes to form 3 vesicles in the anterior **cranial** region:
+            - **prosencephalon/forebrain**
+            - **mesencephalon/midbrain**
+            - **rhombencephalon/hindbrain**
+            - derivatives:
+                - ![](https://i.imgur.com/wkT13v5.png =550x)
+        - **clinical disorders:**
+            - failure of neural tube closure = spina bifida
+            - failure of cranial development = anencephaly
+            - complete failure = rachischisis
+
 
 ### Questions
 **Early development, implantation, fetal membranes:**
