@@ -1280,12 +1280,10 @@
             - **splanchnic mesoderm derivatives:** organs
 - **basic derivatives of the 3 germ layers:**
     - **ectoderm:**
-        - epidermis
+        - surface ectoderm (epidermis)
         - nervous system
         - neural crest cell derivatives
-            - melanocytes
-            - skull bones
-            - adrenal medulla
+            - melanocytes, skull bones, adrenal medulla
     - **endoderm:**
         - dermis
         - muscles
@@ -1299,7 +1297,7 @@
         - bladder
         - thyroid, parathyroid
 
-### Fourth week: head development
+### Fourth week: nervous system, embryonic folding, pharyngial/branchial arches and derivatives
 - **nervous system development:**
     - major parts of central nervous system **i.e. brain and spinal cord** form by **neurulation**
     - **neurulation:** is formation of the precursors for the nervous system:
@@ -1350,6 +1348,22 @@
                 - this happens when notochord and floor plate produce **transcription factor Shh (sonic hedgehog)** that induces motor neuron formation and inhibits sensory neuron formation
             - ![](https://i.imgur.com/5wcf2Qu.png =350x)
             - **sulcus limitans** between **basal** and **alar plates** produces motor and sensory neurons of the **visceral (autonomic)** pathways
+- **embryonic folding:**
+    - **how embryonic folding occurs:**
+        - embryonic folding occurs in **2 planes:**
+            - **transverse/lateral embryonic folding:**
+                - **somites** expand, causing **amniotic sac** to pull downwards
+                - **amniotic sac** pulls down while **yolk sac** becomes narrow and small, until **amniotic sac** loops around other side and pinches off most of **yolk sac**
+                - ![](https://i.imgur.com/eNQQHUW.png =350x)
+                - what remains is the **embryo**, the remains of the **yolk sac** ends up forming the **gut** (lined by **splanchnic/visceral mesoderm**) and is surrounded by the **embryonic body cavity** that forms **cavities in the thorax and abdomen** (lined by **somatic/parietal mesoderm**)
+            - **longitudinal embryonic folding:**
+                - 
+    - outcome of faulty folding:
+    - components derived from the endoderm:
+        - how they arise:
+    - how the primitive gut and associated organs develop:
+        - ![](https://i.imgur.com/Ys9Iy7G.png =350x)
+            - foregut, midgut, and hindgut grouped based on arterial supply
 
 ### Questions
 **Early development, implantation, fetal membranes:**
