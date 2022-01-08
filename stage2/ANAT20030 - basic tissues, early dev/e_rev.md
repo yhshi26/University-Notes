@@ -1301,20 +1301,17 @@
 
 ### Fourth week: head development
 - **nervous system development:**
-    - major parts of central nervous system **i.e. brain and spinal cord** derived from **neural tube**
-    - **neural tube:**
-        - derived from **ectoderm**
-        - **ectoderm** in midline is induced to form **neuroectoderm** by the underlying **notocord** and surrounding tissue
-        - **neural tube formation:**
-            - **neural plate** lies above the **notochord** in the midline dorsally
-            - **neural plate** rises up into **neural folds** along its length on each side (**neural groove** in midline)
-            - cells at crest of each fold separate to form neural crest cells between neural plate and surface ectoderm
-            - **neural folds** fuse together along length to form **neural tube**
-            - ![](https://i.imgur.com/9mjbJBZ.png =350x)
-            - **primary neurulation:**
-                - neural tube proceeds to develop cranially and caudally
-                - temporarily leaves openings (neuropores) at either end of the tube
-            - **secondary neurulation:**
+    - major parts of central nervous system **i.e. brain and spinal cord** form by **neurulation**
+    - **neurulation:** is formation of the precursors for the nervous system:
+        1. **neural plate** induction:
+            - the neural plate forms when **ectoderm** in the midline is induced by the **notochord** below to form **neuroectoderm**
+        2. **neural tube** formation:
+            1. **primary neurulation:** where neural tube forms from neural plate
+                - the neural tube forms when the **neural plate** rises to form **neural folds** along its length on each side (**neural groove** forms in the midline)
+                - cells on the crests of the **neural folds** form **neural crest cells** between the **neural plate** and **surface ectoderm**
+                - **neural crest cells** fuse the **neural folds** together to form the **neural tube**
+                - ![](https://i.imgur.com/9mjbJBZ.png =350x)
+            2. **secondary neurulation:** where caudal end of neural tube closes
                 - occurs at end of spinal cord
                 - neural tube forms solid rod of neural tissue that canalises (hollows out) and links up with the rest of the neural tube
                 - ![](https://i.imgur.com/7kUfO4Y.png =350x)
@@ -1325,11 +1322,34 @@
             - **rhombencephalon/hindbrain**
             - derivatives:
                 - ![](https://i.imgur.com/wkT13v5.png =550x)
+        - **lumen (gap) of neural tube** forms **ventricles** (spaces filled with cerebrospinal fluid) between **vesicles**
+            - **2 lateral ventricles:** in each cerebral hemisphere (derived from telencephalic vesicles)
+            - **1 third ventricle:** in the thalamus (derived from the diencephalon)
+            - **1 fourth ventricle:** in the pons and cerebellum (derived from the metencephalon)
+                - connected to the third ventrical via the **cerebral aqueduct** (in the midbrain (derived from the mesencephalon)), and connects to the spine
         - **clinical disorders:**
             - failure of neural tube closure = spina bifida
             - failure of cranial development = anencephaly
             - complete failure = rachischisis
-
+    - **cns has neural patterning:** along cranio-caudal and dorso-ventral axes
+        - **cranio-cadual axis:**
+            - **cranially:** width expands and forms flexures due to space-constraints 
+                - proliferation of neuroblasts and glioblasts form neurons and glia of the brain
+            - **caudally:** width remains constant (spinal cord) except for cervical and lumbar enlargements (due to more nerves to supply upper and lower limbs respectively)
+                - proliferation of cells from **ependymal (ventricular)** layer builds layers going from the surface of the lumen outward **(going outward: ependymal → mantle → marginal layer)**
+                    - **ependymal** layer lines central canal
+                    - **mantle** layer forms **gray matter** of spinal cord (mainly nerve cell bodies)
+                    - **marginal** layer forms **white matter** of spinal cord (mainly neuronal processes)
+                    - ![](https://i.imgur.com/7tfflj3.png =350x)
+        - **dorsal-ventral axis:**
+            - **ventrally:** motor neurons
+                - **basal plates** produce voluntary **(somatic)** motor neurons 
+                - this happens when surface ectoderm and roof plate produce **bone morphogenetic proteins (BMPS) and Wnts** that induce sensory neuron formation and inhibit motor neuron formation
+            - **dorsally:** sensory neurons
+                - **alar plates** produce sensory **(somatic)** pathways
+                - this happens when notochord and floor plate produce **transcription factor Shh (sonic hedgehog)** that induces motor neuron formation and inhibits sensory neuron formation
+            - ![](https://i.imgur.com/5wcf2Qu.png =350x)
+            - **sulcus limitans** between **basal** and **alar plates** produces motor and sensory neurons of the **visceral (autonomic)** pathways
 
 ### Questions
 **Early development, implantation, fetal membranes:**
