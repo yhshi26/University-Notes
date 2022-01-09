@@ -1357,14 +1357,32 @@
                 - ![](https://i.imgur.com/eNQQHUW.png =350x)
                 - what remains is the **embryo**, the remains of the **yolk sac** ends up forming the **gut** (lined by **splanchnic/visceral mesoderm**) and is surrounded by the **embryonic body cavity** that forms **cavities in the thorax and abdomen** (lined by **somatic/parietal mesoderm**)
             - **longitudinal embryonic folding:**
-                - 
-    - outcome of faulty folding:
-    - components derived from the endoderm:
-        - how they arise:
-    - how the primitive gut and associated organs develop:
-        - ![](https://i.imgur.com/Ys9Iy7G.png =350x)
-            - foregut, midgut, and hindgut grouped based on arterial supply
-
+                - **cranial** and **caudal** ends of **amniotic sac** fold inward by proliferation of the **neural tube** pushing structures inward 
+                - ![](https://i.imgur.com/1xQJn1a.png =350x)
+                - primitive gut formed by a combination of **transverse/lateral** and **longitudinal folding** bringing in the **endoderm**
+                    - ![](https://i.imgur.com/PAjbUiD.png =350x)
+                        - **foregut** and **hindgut** form
+                            - **allantois** in **hindgut** collects waste and performs gas exchange (early embryogenesis), and passes waste to mother via placenta and becomes part of umbillical cord (late embryogenesis)
+                        - **cardiac** region pushed inward
+                    - ![](https://i.imgur.com/qA2zFEU.png =350x)
+                        - **foregut** and **hindgut** get closer as **midgut** opening to **yolk sac** narrows until it becomes a **yolk stalk** and then a **vitelline duct**
+                        - ![](https://i.imgur.com/b3nmkck.png =450x)
+                            - foregut, midgut, and hindgut grouped based on arterial supply
+    - **outcome of faulty folding:**
+        - respiratory system defects:
+            - oesophaegeal atresia (OA) and trachea-oesophageal fistula (TOF) result from abnormal separation of trachea from oesophagus
+                - OA: when oesophagus doesn't fully develop (has a dead end)
+                - TOF: when trachea and oesophagus don't fully separate
+        - ventral body wall defects:
+            - intestine temporarily develops in the umbilical cord during development, but if a small part remains, a baby is born with an umbilical hernia
+                - if a large part remains, a baby is born with omphalocoele
+            - if lateral folding and fusion fails, the bowel might herniate in later embryogenesis, so a baby is born with gastroschisis
+        - vitelline duct defects:
+            - persistence of the vitelline duct can cause defects: e.g. meckel's diverticulum (outpocket of ileum)
+                - attachments can twist (volvulus) and cause stenosis and ischaemia
+        - recto-anal defects:
+            - ![](https://i.imgur.com/zmXEl6S.png =450x)
+   
 ### Questions
 **Early development, implantation, fetal membranes:**
 - what is the timeline of implantation?
