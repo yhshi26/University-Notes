@@ -1382,7 +1382,74 @@
                 - attachments can twist (volvulus) and cause stenosis and ischaemia
         - recto-anal defects:
             - ![](https://i.imgur.com/zmXEl6S.png =450x)
-   
+- **pharyngeal (branchial) arches and derivatives:**
+    - **structural basis of the face, palate and pharyngeal arches:**
+        - **from week 4-10, 5 prominences (swellings) grow and fuse together to form the face:**
+            - 1 frontonasal prominence:
+                - forms from neural crest cells migrating from the midbrain
+            - 2 maxillary (upper jaw) prominences:
+                - derived from pharyngeal arch 1
+            - 2 mandibular (lower jaw) prominences
+                - derived from pharyngeal arch 1
+            - **week 4:**
+                - ![](https://i.imgur.com/oCFXrIS.png =350x)
+            - **week 5-6:**
+                - ![](https://i.imgur.com/UNqvxZb.png =450x)
+            - **week 7-8:**
+                - ![](https://i.imgur.com/Azv0fOm.png =450x)
+            - **if prominences fail to fuse:**
+                - oblique facial cleft: nasolateral prominence and maxillary prominence fail to fuse
+                    - results in nasolacrimal ducts becoming open grooves
+                - median cleft lip: nasomedial processes fail to fuse into a single intermaxillary segment
+                - cleft lip: failure of intermaxillary segment and maxillary prominence to fuse, sometimes associated with cleft palate (CP)
+                    - can be unilateral (one side only) or bilateral
+                - cleft chin: failure of mandibular prominences to fully fuse at midline
+        - **from week 7-10, 2 prominences form the palate:**
+            - ![](https://i.imgur.com/zAAlXZI.png =450x)
+            - palate formation separates the nasal/nasopharyngeal cavities from the oral/oropharyngeal cavities:
+                - ![](https://i.imgur.com/sbo1Y6h.png =450x)
+            - **if prominences fail to fuse:**
+                - bifid uvula: failure of palatine shelves to fuse at their posterior region (soft palate doesn't fuse, uvula split in two)
+                - cleft palate: failure of palatine shelves (secondary palate) to fuse (hard and soft palate don't fuse)
+            - **week 8:** nose attains human-like shape and philtrum is formed
+                - maxillary prominences grow rapidly, becoming larger than respective mandibular prominences
+    - **pharyngeal arches:**
+        - 5 (only 4 visible, 5th fails to form, 6th not visible) pharyngeal arches appear on each side of the foregut and transform serially (superior to inferior)
+            - ![](https://i.imgur.com/8tLTHhy.png =350x)
+            - useful indicators of embyronic age (weeks 4-7)
+            - have complex structure, containing:
+                - endodermal/mesodermal/ectodermal and neuronal crest cells
+                - cardiovascular and nervous connections
+        - **pharyngeal arch structure:**
+            - in between arches are **ectodermal clefts** and **endodermal pouches** (together: **pharyngeal membrane**)
+            - each arch contains a nerve, an artery and a bar of cartilage
+            - each one also gives rise to a group of special visceral msucles which is innervated by the nerve of the arch
+            - **parts:**
+                - pharyngeal arch
+                - pharyngeal groove/cleft (outside/ectoderm)
+                - pharyngeal pouch (inside/ectoderm)
+                - ![](https://i.imgur.com/h1Gppyt.png =350x)
+        - **derivates of pharyngeal arches:**
+            - ![](https://i.imgur.com/jCeJufs.png =450x)
+            - ![](https://i.imgur.com/8oUjUw2.png =450x)
+            - **clinical associations:** growth of the mandible, micrognathia (mandibular hypoplasia)
+                - treacher collins syndrome (mandibulofacial dysostosis):
+                    - underdevelopment of mandible and zygomatic bones
+                    - genetic mutation
+                - pierre robin sequence: 
+                    - consequence of underdeveloped mandible
+                    - genetic or environmental (oligohydramnios)
+                    - results in glossoptosis (retracted tongue) and cleft palate
+                - digeorge syndrome:
+                    - facial dysmorphology, palatal abnormalities, heart and thymus defects
+                    - genetic deletion
+    - **pharyngeal pouches:**
+        - ![](https://i.imgur.com/ZK5cKdB.png =450x)
+    - **other clinical associations:** undescended and ectopic glands
+        - gland tissue can fail to migrate, or leave a component behind along the way
+            - superior and inferior parathyroid glands
+            - thymus glands
+    
 ### Questions
 **Early development, implantation, fetal membranes:**
 - what is the timeline of implantation?
