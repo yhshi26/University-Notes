@@ -1,5 +1,5 @@
 # Learning objectives
-###### tags: MDSA20190 - Renal
+###### tags: `MDSA20190 - Renal`
 
 ## Physiology
 ### Renal histology
