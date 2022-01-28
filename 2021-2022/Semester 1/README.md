@@ -4,4 +4,4 @@ Core modules: ANAT20030 - Basic Tissues, Early Development, ANAT20080 - Musculos
 
 Elective: COMP10010 - Introduction to Python
 
-All core modules were intermediate level courses. The elective was an introductory level course.
+All core modules were intermediate level modules. The elective was an introductory level module.
