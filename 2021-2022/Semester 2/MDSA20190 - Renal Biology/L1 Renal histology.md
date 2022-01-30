@@ -1,4 +1,4 @@
-# L1 Renal histology
+# L1: Renal histology
 [2022_Lecture1_RenalHistologyFunction CostelloC](https://brightspace.ucd.ie/d2l/le/content/154724/viewContent/1810119/View)
 ###### tags: `MDSA20190 - Renal Biology`
 
