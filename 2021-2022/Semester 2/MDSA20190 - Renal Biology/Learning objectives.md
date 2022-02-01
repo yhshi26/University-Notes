@@ -15,4 +15,19 @@
 - Explain urothelium response to filling/voiding
 
 ## Anatomy
+### Pelvic cavity, peritoneum and perineum
+- Pelvis: bony framework for inferior urinary structures
+    - With muscular pelvic walls and floor
+- Pelvic cavity: contains urinary, reproductive and excretory organs
+- Perinuem: shallow compartment below pelvic floor
+- Peritoneum: lining of adbominopelvic cavity and viscera
+- Pelvic vessels and nerves
 
+### Gross anatomy of the kidneys and ureters
+- Superior urinary system
+    - Location
+    - Relations
+    - Structure
+    - Supply
+- Terms renal and nephric from:
+    - Latin: ren, and Greek: nephros
