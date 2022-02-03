@@ -1,5 +1,6 @@
 # L1: Heart: surfaces and chambers
 [Lecture 1 - Heart 1: Surfaces & Chambers (Dr. Tom Flanagan)](https://brightspace.ucd.ie/d2l/le/content/155449/viewContent/1804123/View)
+###### tags: `MDSA20180 - Cardiac Biology`
 
 ## Learning objectives
 - Describe the anatomical position and orientation of the heart
