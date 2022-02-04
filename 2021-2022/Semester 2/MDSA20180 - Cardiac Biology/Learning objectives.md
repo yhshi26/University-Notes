@@ -1,8 +1,13 @@
 # Learning objectives
 ###### tags: `MDSA20180 - Cardiac Biology`
 
-## The heart
-- describe the anatomical position and oreintation of the heart
-- describe the anatomy and structure of the pericardium
-- define the surfaces and borders of the heart
-- describe the anatomy of the four heart chambers
+## Heart: surfaces and chambers
+- Describe the anatomical position and oreintation of the heart
+- Describe the anatomy and structure of the pericardium
+- Define the surfaces and borders of the heart
+- Describe the anatomy of the four heart chambers
+
+## Heart: valves and conducting tissues
+- Describe anatomy and fucntion of valves of haert
+- Understand structure and function of fibrous skeleton of heart
+- Describe and understand cardiac conduction system
