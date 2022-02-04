@@ -11,3 +11,8 @@
 - Describe anatomy and fucntion of valves of haert
 - Understand structure and function of fibrous skeleton of heart
 - Describe and understand cardiac conduction system
+
+## Coronary circulation
+- Know origin, course and supply of coronary arteries
+- Describe venous drainage of heart via cardiac veins and coronary sinus
+- Be aware of certain clinical aspects of coronary arteries
