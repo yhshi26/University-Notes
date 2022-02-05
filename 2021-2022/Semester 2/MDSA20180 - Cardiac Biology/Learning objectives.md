@@ -16,3 +16,8 @@
 - Know origin, course and supply of coronary arteries
 - Describe venous drainage of heart via cardiac veins and coronary sinus
 - Be aware of certain clinical aspects of coronary arteries
+
+## Embryology of the heart
+- Know details of development of heart, includign that of its inflow and outflow tract, valves, septae and chambers
+- Understand the basic mechanism of folding and rotation fo heart during development
+- Understand disorders of heart and embryogenesis
