@@ -21,3 +21,9 @@
 - Know details of development of heart, includign that of its inflow and outflow tract, valves, septae and chambers
 - Understand the basic mechanism of folding and rotation fo heart during development
 - Understand disorders of heart and embryogenesis
+
+## Autonomic nervous system and nerves of the thorax
+- Describe divisions of autonomic nervous system (ANS)
+- Describe anatomical relationship of sympathetic chain to spinal nerves
+- Describe sympathetic and parasympathetic (vagal) supply to heart
+- Understand some clinical correlations associated with ANS
