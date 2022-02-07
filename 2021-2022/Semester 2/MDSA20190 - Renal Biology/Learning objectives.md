@@ -31,3 +31,22 @@
     - Supply
 - Terms renal and nephric from:
     - Latin: ren, and Greek: nephros
+
+### Gross anatomy of the urinary bladder and urethra
+- Urinary bladder and urethra
+    - Location
+    - Relations
+    - Structure
+    - Supply
+    - Clinical considerations
+
+### Imaging of the urinary tract
+> Determine learning objectives 
+
+### Development of the upper urinary system
+- Understand early embryogenesis, formation of blastocyst, implantation (formation of epiblast and hypoblast), gastrulation (formation of ectoderm, mesoderm, endoderm)
+    - Know how mesoderm differentiates
+- Explain development of kidneys and ureters
+    - Explain development of the collecting system
+    - Explain ascent of the kidneys
+- Know of clinical considerations
