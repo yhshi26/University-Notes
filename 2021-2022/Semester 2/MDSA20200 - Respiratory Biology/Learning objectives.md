@@ -11,3 +11,14 @@
 - Blood supply to nasal cavity
 - Nerve supply of nasal cavity
 
+## Mouth, palate and pharynx
+- Mouth
+    - Oral cavity
+    - Lateral palatal space
+    - Palatine tonsils
+    - Tongue
+    - Neurovascular supply
+- Palate
+    - Hard palate
+    - Soft palate
+- Pharynx
