@@ -17,3 +17,8 @@
 ### Thoracic aorta
 - Know the origin of the aorta in the mediastinum, as well as its main branches, distribution & relations in the thorax
 - Be aware of clinical aspects of the aorta in the thorax
+
+### Thoracic veins and lymphatics
+- Know the veins terminating in the mediastinum/thorax, as well as their tributaries and relations
+- Know the course of the thoracic duct and lymphaticdrainage of the thorax
+- Be aware of clinical aspects of the lymphatic system
