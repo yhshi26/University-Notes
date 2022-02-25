@@ -47,14 +47,15 @@ Examine your 12-lead ECG and perform the following tasks.
     | QTc interval | | | 
  
 7. Determine the mean frontal plane QRS axis in the supine position. Perform this calculation using the Einthoven’s triangle, as described in the practical notes. 
- 
+![](https://i.imgur.com/LfEVagG.png =250x)
+
 8. Note that the value obtained would differ according to posture. Why would you expect this value to differ? 
  
 9. Why would you expect a different value if you calculated the QRS axis for a different plane? 
  
 10. Which heart sound should occur just after commencement of the QRS complex of the ECG? 
  
-11.  If  the  PR  interval  is  abnormally  long,  where  in  the  heart  would  you  expect  there  to  be  a conduction problem? 
+11. If the PR interval  is  abnormally long, where in the heart would you expect there to be a conduction problem? 
  
 12. If the PR interval is abnormally short, what might this indicate? 
  
