@@ -1,4 +1,4 @@
-# L6: Cardiac muscle: microscopic structure and function
+# U2 L1: Cardiac muscle: microscopic structure and function
 [Cardiac Muscle Microscopic Structure and Function 2022 Six Slides to View](https://brightspace.ucd.ie/d2l/le/content/155449/viewContent/1823177/View)
 ###### tags: `MDSA20180 - Cardiac Biology`
 
