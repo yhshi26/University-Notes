@@ -1,4 +1,4 @@
-# L8: Cardiac action potential: the pacemaker cell
+# U2 L3: Cardiac action potential: the pacemaker cell
 [Cardiac Action Potential 2 The Pacemaker Cell 2022 Six Slides to View](https://brightspace.ucd.ie/d2l/le/content/155449/viewContent/1823185/View)
 ###### tags: `MDSA20180 - Cardiac Biology`
 
