@@ -1,4 +1,4 @@
-# L7: Cardiac action potential: ventricular muscle
+# U2 L2: Cardiac action potential: ventricular muscle
 [Cardiac Action Potential 1 Ventricular Muscle 2022 Six Slides to View](https://brightspace.ucd.ie/d2l/le/content/155449/viewContent/1823180/View)
 ###### tags: `MDSA20180 - Cardiac Biology`
 
