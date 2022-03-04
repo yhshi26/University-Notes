@@ -21,18 +21,33 @@
 - Compared with typical contractile cardiac muscle, cells are smaller, containing fewer myofibrils and fewer intercalated discs
 
 ## SA node electrical activity
-![](https://i.imgur.com/Tt2KEGO.png =250x)
+- Note: SA node cells do not  possess a stable membrane potential, i.e. there is no resting membrane potential
+- Membrane achieves a potential of about –60mV which decays to about –40mV
+    - This slow decay is called pacemaker potential and is a consequence of a leak of Na^+^ ions into cell  with  a  contribution to its final third from a leak of Ca^2+^ into cell
+    - At –40mV, threshold for an action potential is reached
+- Upstroke phase is caused by Ca^2+^ entry
+    - Cell repolarises as a consequence of inactivation of Ca^2+^ currents and activation of K^+^ current
+    - Na^+^ current is inactivated before upstroke phase
+- Cell repolarises to –60mV and process starts again
+- Regular depolarisations are conducted through heart resulting in regular cardiac muscle contractions thus generating cardiac rhythm
+- ![](https://i.imgur.com/Tt2KEGO.png =250x)
 
 ### Control of heart rate
-![](https://i.imgur.com/Gh1BWyo.png =250x)
+- Gradient of pacemaker potential can be regulated which permits regulation of heart rate
+- SA node AP is also known as slow response AP because AP rising phase is much slower than that of ventricular cardiac muscle cell
+- Note: 
+    
+- ![](https://i.imgur.com/Gh1BWyo.png =250x)
 
 ### (Slow response) action potential
-- Note lack of a stable membrane potential
-- Few K~ir~ channels are present resulting in a less negative V~m~ than seen in ventricular cardiomyocytes
-- Action potential threshold between -40 mV and -55 mV
+1. There is no stable V~m~ (which is different to situation is ventricular cardiac muscle cell)
+2. Most  negative V~m~ achieved is significantly less negative than that observed in ventricular muscle because there is a relative lack of K~ir~ channels
+3. AP threshold is around -40 to -55mV which is more positive than that in ventricular myocytes (~-65mV)
+4. Whereas ventricular muscle cell AP has 5 phases there are only 3 clear phases in SA node AP
 
 ### Delving deeper
-![](https://i.imgur.com/6qShg8l.png =250x)
+- ![](https://i.imgur.com/6qShg8l.png =250x)
+    - Pacemaker potential is phase 4, the rising phase of AP is phase 0 and repolarising phase is phase 3
 
 ### Pacemaker potential
 #### F-type (funny)/HCN channels
@@ -46,14 +61,15 @@
 - K~V~ inactivation results in reduced K^+^ outflow and hence a diminished polarising current 
 
 #### Voltage-sensitive T-type (transient) Ca^2+ channels
-- Latter stage of pacemaker potential includes opening of voltage-sensitive T-type Ca^2+^ channels (T, transient)
+- Latter stages (approximately final 1/3) of pacemaker potential includes opening of voltage-sensitive T-type Ca^2+^ channels (T, transient)
 - T-type Ca^2+^ channels’ activation contributes to membrane depolarisation and subsequent activation of L-type Ca^2+^ channels at about -40mV
 - Electrogenic 3Na^+^/Ca^2+^ exchanger contributes to pacemaker potential
+    - i.e. 3 positive charges move in for every 2 that move out
 
 #### Figure 1-2: membrane potential and relative membrane permeability
 - Pacemaker potential: Na^+^ current through F-type channels and Ca^2+^ current through T-tyle Ca^2+^ channels and L-type Ca^2+^ channels plus diminished K^+^ current rhoguh K~V~ channels
 - Action potential: Ca^2+^ current through L-type Ca^2+^ channels
-- Repolarisation phase: closure o fL-type Ca^2+^ channels plus activation of K^+^ current through K~V~ channels
+- Repolarisation phase: closure of L-type Ca^2+^ channels plus activation of K^+^ current through K~V~ channels
     - K~V~ channels (delayed rectifier) activate slowly during action potential then inactivate slowly thereby contributing to next pacemaker potential
 - ![](https://i.imgur.com/Gg8TJfx.png =250x)
 
@@ -67,8 +83,18 @@
 - Parasympathetic effects are rapid via K~ACh~ and degradation of ACh by cholinesterase 
 
 #### Autonomic nervous system control of heart rate
+- Pink line is sarcolemma, there are beta-1 receptors, muscarinic (M2) receptors and various channels
 1. ![](https://i.imgur.com/VUPOHbj.png =250x)
 2. ![](https://i.imgur.com/6NoWUof.png =250x)
+- AC is a membrane bound enzyme called adenylyl cyclase
+    - AC is  activated by a stimulatory G protein (Gs) when beta-1 receptors are occupied
+    - AC is inhibited by inhibitory G protein (Gi) when M2 is occupied
+        - M2 occupation leads to K~ACh~ activation by Gi protein (actually, dissociation of Gi subunits generates subunits that inhibit AC while other subunits activate K~ACh~ which means that Gi dissociation has two effects)
+- AC catalyses conversion of ATP into cAMP which, in turn, opens F-type channels which increases HR (remember  that   funny channels are also referred to as cyclic nucleotide activated  channels)
+    - cAMP also activates a protein called protein kinase A  (PKA) which then phosphorylates and opens (i.e. increased open state probability) L-type Ca^2+^ channels and K~v~ channels thereby speeding up rising and falling phases of AP
+- ACh binding to M2 inhibits AC thereby opposing the effects of beta-1 stimulation and decreases HR
+    - AC activity therefore reflects a balance of competing effects of sympathetic and parasympathetic nerves
+- In addition, K~ACh~ are opened via M2 activation of inhibitory G protein
 
 ## Summary
 - Magnitude, direction and timing of Na^+^, K^+^ and Ca^2+^ currents determine pacemaker potential and form of action potential
