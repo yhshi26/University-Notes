@@ -55,3 +55,22 @@
     - Thoracic cage fracture + flail chest
     - Cervical ribs
     - Kyphosis/lordosis/scoliosis
+
+## Muscles of respiration
+- Diaphragm
+- Intercostal muscles
+    - External intercostals
+    - Internal intercostals
+    - Innermost group of muscles
+- Neurovascular supply
+- Accessory muscles of respiration
+    - Muscles of the posterior Chest Wall
+    - Muscles of the anterior chest wall
+- Clinical
+    - Shoulder tip pain, referred from diaphragm
+    - Hernia associated with diaphragm
+    - GORD/fundoplication
+    - Hernia of Bochdalek
+    - Safety triangle
+    - Pleurocentesis and chest drain insertion
+    - Flail chest
