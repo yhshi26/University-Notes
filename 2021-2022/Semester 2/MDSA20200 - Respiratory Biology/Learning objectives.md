@@ -22,3 +22,36 @@
     - Hard palate
     - Soft palate
 - Pharynx
+
+## Larynx and trachea
+- Larynx
+- Surface anatomy
+- Anatomical location
+- Structure and components
+    - Cartilage
+    - Ligaments and membranes
+    - Vocal cords and muscles
+    - Epiglottis and muscle
+- Neurovascular supply
+- Laryngoscopy
+    - Direct and indirect
+    - Awake video laryngoscopy
+- Vocal fold paralysis
+- Cricothyroidotomy
+- Laryngocele
+
+## Osteology of thorax and joints
+- Thoracic cage and apertures
+- Sternum
+- Ribs: features and classification
+    - Typical/atypical
+    - Ture/false/floating
+- Typical and actypical thoracic vertebrae
+- Joints of thoracic cage
+- Rib cage motion: bucket handle and pump handle
+- Surface anatomy landmarks
+- Clinical points:
+    - SC joint dislocation
+    - Thoracic cage fracture + flail chest
+    - Cervical ribs
+    - Kyphosis/lordosis/scoliosis
