@@ -5,9 +5,9 @@
 ## Learning objectives
 - Development of the larynx and trachea
 - Development of the lung and pleurae
-- Development of the Diaphragm
+- Development of the diaphragm
 - Clinical
-    - Oesophageal atresia and tracheoesophageal fistula
+    - Esophageal atresia and tracheoesophageal fistula
     - Polyhydraminos
     - Diaphragmatic herniation: morgagni and bochdalek
     - Pulmonary hypoplasia
