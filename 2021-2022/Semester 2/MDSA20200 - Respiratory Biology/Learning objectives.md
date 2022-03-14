@@ -1,7 +1,8 @@
 # Learning objectives
 ###### tags: `MDSA20200 - Respiratory Biology`
 
-## Nasal cavity and paranasal sinuses
+## Anatomy
+### Nasal cavity and paranasal sinuses
 - Nasal cavity: structure
 - Nasal septum components
 - Turbinates, conchae and meatus
@@ -11,7 +12,7 @@
 - Blood supply to nasal cavity
 - Nerve supply of nasal cavity
 
-## Mouth, palate and pharynx
+### Mouth, palate and pharynx
 - Mouth
     - Oral cavity
     - Lateral palatal space
@@ -23,7 +24,7 @@
     - Soft palate
 - Pharynx
 
-## Larynx and trachea
+### Larynx and trachea
 - Larynx
 - Surface anatomy
 - Anatomical location
@@ -40,7 +41,7 @@
 - Cricothyroidotomy
 - Laryngocele
 
-## Osteology of thorax and joints
+### Osteology of thorax and joints
 - Thoracic cage and apertures
 - Sternum
 - Ribs: features and classification
@@ -56,7 +57,7 @@
     - Cervical ribs
     - Kyphosis/lordosis/scoliosis
 
-## Muscles of respiration
+### Muscles of respiration
 - Diaphragm
 - Intercostal muscles
     - External intercostals
@@ -75,7 +76,7 @@
     - Pleurocentesis and chest drain insertion
     - Flail chest
 
-## Lungs and pleurae
+### Lungs and pleurae
 - Lungs
     - Form
     - External topography
@@ -97,7 +98,7 @@
     - Lobectomy
     - Wedge resection
 
-## Respiratory tract development
+### Respiratory tract development
 - Development of the larynx and trachea
 - Development of the lung and pleurae
 - Development of the diaphragm
@@ -108,5 +109,8 @@
     - Pulmonary hypoplasia
     - Oligohydraminos
 
-## Translating theory to practice
-- Revision through Clinical Cases pertaining to the respiratory system
+## Physiology
+### Structural organisation of respiratory system
+- Identify and describe the primary structures in the organisation of the respiratory system
+- Identify the main histological aspects of each component of the conducting system and gas exchange region
+- To relate structure to function of the conducting airways and gas exchange region
