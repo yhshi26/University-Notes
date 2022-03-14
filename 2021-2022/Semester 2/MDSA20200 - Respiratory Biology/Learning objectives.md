@@ -107,3 +107,6 @@
     - Diaphragmatic herniation: morgagni and bochdalek
     - Pulmonary hypoplasia
     - Oligohydraminos
+
+## Translating theory to practice
+- Revision through Clinical Cases pertaining to the respiratory system
