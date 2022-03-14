@@ -74,3 +74,36 @@
     - Safety triangle
     - Pleurocentesis and chest drain insertion
     - Flail chest
+
+## Lungs and pleurae
+- Lungs
+    - Form
+    - External topography
+    - Lung roots/hilar regions
+    - Internal structure
+    - Bronchopulmonary segments
+    - Neurovascular supply
+    - Lymphatic drainage
+- Pleurae
+- Surface markings of lungs and pleurae
+    - 2, 4, 6, 8, 10, 12
+- Clinical
+    - Smoker’s lungs, anthracosis, pneumoconiosis
+    - Foreign body aspiration
+    - Pleural effusion
+    - Pneumothorax
+    - Bronchoscopy
+    - Pneumonectomy
+    - Lobectomy
+    - Wedge resection
+
+## Respiratory tract development
+- Development of the larynx and trachea
+- Development of the lung and pleurae
+- Development of the diaphragm
+- Clinical
+    - Esophageal atresia and tracheoesophageal fistula
+    - Polyhydraminos
+    - Diaphragmatic herniation: morgagni and bochdalek
+    - Pulmonary hypoplasia
+    - Oligohydraminos
