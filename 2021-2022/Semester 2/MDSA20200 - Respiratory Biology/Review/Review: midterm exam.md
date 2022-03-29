@@ -206,9 +206,6 @@
 - ![](https://i.imgur.com/dlRAatD.png =450x)
 - ![](https://i.imgur.com/LytBgIe.png =450x)
 
-## Recommended reading
-- Chapter 8: head, nose, pg 963-973
-
 # Mouth, palate and pharynx
 ## Learning objectives
 - Mouth
@@ -394,15 +391,6 @@
     - Weight loss
 - Treatment: myotomy (incision through muscle)
 - ![](https://i.imgur.com/ca5TUJl.png =350x)
-
-## Recommended reading
-- Chapter 8, Head:
-    - Oral Region: pg 936–938 (last part Gingivae)
-    - Palate: pg 942–946
-    - Tongue: p946–953
-    - Clinical Box: pg 954-958
-- Chapter 9, Neck :
-    - Pharynx: pg 1041-1047
 
 # Larynx and trachea
 ## Learning objectives
@@ -671,21 +659,6 @@
 #### Figure 8: coronal seciton
 ![](https://i.imgur.com/zjuNkj7.png =150x)
 
-## Recommended reading
-- Chapter 9: neck
-    - Laryngeal skeleton pg 1032-1036
-    - Laryngeal muscles pg 1036-1038
-    - Arteries of larynx pg 1038
-    - Veins of larynx pg 1039
-    - Clinical box pg 1050-1059
-        - Fractures of laryngeal skeleton
-        - Laryngoscopy
-        - Valsalva maneuver
-        - Aspiration of foreign bodies and heimlich maneuver
-        - Cricothyrotomy
-        - Injury to laryngeal nerves
-        - Foreign bodies in laryngopharynx
-
 # Osteology of thorax and joints
 ## Learning objectives
 - Thoracic cage and apertures
@@ -914,16 +887,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900050/
 
 #### Spinal x-rays
 ![](https://i.imgur.com/BdNVnwb.png =350x)
-
-## Further reading
-- Chapter 4 – Thorax
-    - Overview of Thorax + Thoracic Wall p291
-    - Skeleton of Thoracic Wall p293-297
-    - Thoracic Apertures p297-298
-    - Joints of Thoracic Wall p298-300
-    - Movements of Thoracic Wall p300-301
-    - Clinical Box – Thoracic Wall p302-304
-    - Surface Anatomy of Thoracic Wall p318-32
 
 # Muscles of respiration
 ## Learning objectives
@@ -1205,19 +1168,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900050/
     - Inferior: anterior rami of T9-12 thoracic spinal nerves
 -![](https://i.imgur.com/poQWKUG.png =250x)
 
-## Further reading
-- Chapter 5 – Abdomen
-    - Diaphragm p533-537
-    - Clinical Box – p544-545
-    - Hiccups, Section of Phrenic Nerve, Referred Pain  from Diaphragm, Rupture of Diaphragm and  Herniation of Viscera, Congenital Diaphragmatic Hernia
-- Chapter 4 – Thorax
-    - Muscles of Thoracic Wall p305-307
-    - Fascia of Thoracic Wall p307-310
-    - Nerves of Thoracic Wall p310-313
-    - Vasculature of Thoracic Wall p313-315
-    - Clinical Box p315-316
-    - All topics
-
 # Lungs and pleurae
 ## Learning objectives
 - Lungs
@@ -1408,18 +1358,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900050/
 ### Pleural recesses
 ![](https://i.imgur.com/hgZwtJP.png =350x)
 
-## Further reading
-- Chapter 4 – Thorax
-    - Viscera of Thoracic Cavity p326 – 327
-    - Pleurae, Lungs, and Tracheobronchial Tree p327
-    - Pleurae p327 – 328
-    - Lungs p331 – 333
-    - Tracheobronchial Tree p333 – 336
-    - Vasculature of Lungs and Pleurae p336 – 338
-    - Nerves of Lung and Pleurae p338 -339
-    - Surface Anatomy of Pleurae and Lungs p339 – 340
-    - Clinical Box p340 – 347
-
 # Respiratory tract development
 ## Learning objectives
 - Development of the larynx and trachea
@@ -1593,8 +1531,3 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900050/
     - Reduced intrathoracic cavity size
     - Smaller lungs
 - ![](https://i.imgur.com/L3rX4I5.png =350x)
-
-## Further reading
-- Langman’s Medical Embryology
-    - Chapter on The Respiratory System
-    - Chapter on Body Cavities “Formation of the Diaphragm” 
